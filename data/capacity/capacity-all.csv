@@ -1,0 +1,71 @@
+year,site_code,indicateur,sous_indicateur,unite,value,value_crise
+2011,PLF,Lits,Lits totaux (toutes disciplines),lits,1647.0,1894.05
+2011,CFX,Lits,Lits totaux (toutes disciplines),lits,485.0,557.75
+2012,PLF,Lits,Lits totaux (toutes disciplines),lits,1647.0,1894.05
+2012,CFX,Lits,Lits totaux (toutes disciplines),lits,485.0,557.75
+2013,PLF,Lits,Lits totaux (toutes disciplines),lits,1678.67,1930.47
+2013,CFX,Lits,Lits totaux (toutes disciplines),lits,481.33,553.53
+2014,PLF,Lits,Lits totaux (toutes disciplines),lits,1710.33,1966.88
+2014,CFX,Lits,Lits totaux (toutes disciplines),lits,477.67,549.32
+2015,PLF,Lits,Lits totaux (toutes disciplines),lits,1742.0,2003.3
+2015,CFX,Lits,Lits totaux (toutes disciplines),lits,474.0,545.1
+2016,PLF,Lits,Lits totaux (toutes disciplines),lits,1737.08,1997.64
+2016,CFX,Lits,Lits totaux (toutes disciplines),lits,491.92,565.71
+2017,PLF,Lits,Lits totaux (toutes disciplines),lits,1737.08,1997.64
+2017,CFX,Lits,Lits totaux (toutes disciplines),lits,491.92,565.71
+2011,PLF,Lits,MCO,lits,755.0,868.25
+2011,CFX,Lits,MCO,lits,755.0,868.25
+2012,PLF,Lits,MCO,lits,755.0,868.25
+2012,CFX,Lits,MCO,lits,755.0,868.25
+2013,PLF,Lits,MCO,lits,773.0,888.95
+2013,CFX,Lits,MCO,lits,773.0,888.95
+2014,PLF,Lits,MCO,lits,791.0,909.65
+2014,CFX,Lits,MCO,lits,791.0,909.65
+2015,PLF,Lits,MCO,lits,809.0,930.35
+2015,CFX,Lits,MCO,lits,809.0,930.35
+2016,PLF,Lits,MCO,lits,809.0,930.35
+2016,CFX,Lits,MCO,lits,809.0,930.35
+2017,PLF,Lits,MCO,lits,809.0,930.35
+2017,CFX,Lits,MCO,lits,809.0,930.35
+2011,PLF,Lits,Psychiatrie,lits,70.0,80.5
+2011,CFX,Lits,Psychiatrie,lits,70.0,80.5
+2012,PLF,Lits,Psychiatrie,lits,70.0,80.5
+2012,CFX,Lits,Psychiatrie,lits,70.0,80.5
+2013,PLF,Lits,Psychiatrie,lits,69.0,79.35
+2013,CFX,Lits,Psychiatrie,lits,69.0,79.35
+2014,PLF,Lits,Psychiatrie,lits,68.0,78.2
+2014,CFX,Lits,Psychiatrie,lits,68.0,78.2
+2015,PLF,Lits,Psychiatrie,lits,67.0,77.05
+2015,CFX,Lits,Psychiatrie,lits,67.0,77.05
+2016,PLF,Lits,Psychiatrie,lits,67.0,77.05
+2016,CFX,Lits,Psychiatrie,lits,67.0,77.05
+2017,PLF,Lits,Psychiatrie,lits,67.0,77.05
+2017,CFX,Lits,Psychiatrie,lits,67.0,77.05
+2011,PLF,Lits,SLD,lits,124.0,142.6
+2011,CFX,Lits,SLD,lits,124.0,142.6
+2012,PLF,Lits,SLD,lits,124.0,142.6
+2012,CFX,Lits,SLD,lits,124.0,142.6
+2013,PLF,Lits,SLD,lits,114.17,131.3
+2013,CFX,Lits,SLD,lits,114.17,131.3
+2014,PLF,Lits,SLD,lits,104.33,119.98
+2014,CFX,Lits,SLD,lits,104.33,119.98
+2015,PLF,Lits,SLD,lits,94.5,108.68
+2015,CFX,Lits,SLD,lits,94.5,108.68
+2016,PLF,Lits,SLD,lits,94.5,108.68
+2016,CFX,Lits,SLD,lits,94.5,108.68
+2017,PLF,Lits,SLD,lits,94.5,108.68
+2017,CFX,Lits,SLD,lits,94.5,108.68
+2011,PLF,Lits,SSR,lits,104.5,120.18
+2011,CFX,Lits,SSR,lits,104.5,120.18
+2012,PLF,Lits,SSR,lits,104.5,120.18
+2012,CFX,Lits,SSR,lits,104.5,120.18
+2013,PLF,Lits,SSR,lits,115.5,132.82
+2013,CFX,Lits,SSR,lits,115.5,132.82
+2014,PLF,Lits,SSR,lits,126.5,145.48
+2014,CFX,Lits,SSR,lits,126.5,145.48
+2015,PLF,Lits,SSR,lits,137.5,158.12
+2015,CFX,Lits,SSR,lits,137.5,158.12
+2016,PLF,Lits,SSR,lits,137.5,158.12
+2016,CFX,Lits,SSR,lits,137.5,158.12
+2017,PLF,Lits,SSR,lits,137.5,158.12
+2017,CFX,Lits,SSR,lits,137.5,158.12

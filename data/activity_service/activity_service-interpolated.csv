@@ -1,0 +1,64 @@
+ANNEE,INDICATEUR,SOUS-INDICATEUR,PLF,CFX,TOTAL,UNITE
+2011,Actes,Actes opératoires,23962.5,23962.5,47925.0,actes
+2012,Actes,Actes opératoires,23962.5,23962.5,47925.0,actes
+2013,Actes,Actes opératoires,23962.5,23962.5,47925.0,actes
+2014,Actes,Actes opératoires,23962.5,23962.5,47925.0,actes
+2015,Actes,Actes opératoires,23962.5,23962.5,47925.0,actes
+2016,Actes,Actes opératoires,23962.5,23962.5,47925.0,actes
+2017,Actes,Actes opératoires,23962.5,23962.5,47925.0,actes
+2011,Consultations,Consultations externes,657047.0,3911.0,660958.0,consultations
+2012,Consultations,Consultations externes,657047.0,3911.0,660958.0,consultations
+2013,Consultations,Consultations externes,639482.22,3806.45,643288.67,consultations
+2014,Consultations,Consultations externes,621917.44,3701.9,625619.33,consultations
+2015,Consultations,Consultations externes,604352.66,3597.34,607950.0,consultations
+2016,Consultations,Consultations externes,640787.78,3814.22,644602.0,consultations
+2017,Consultations,Consultations externes,640787.78,3814.22,644602.0,consultations
+2011,Greffes,Transplantations,157.0,157.0,314.0,greffes
+2012,Greffes,Transplantations,157.0,157.0,314.0,greffes
+2013,Greffes,Transplantations,167.67,167.67,335.33,greffes
+2014,Greffes,Transplantations,178.33,178.33,356.67,greffes
+2015,Greffes,Transplantations,189.0,189.0,378.0,greffes
+2016,Greffes,Transplantations,197.0,197.0,394.0,greffes
+2017,Greffes,Transplantations,197.0,197.0,394.0,greffes
+2011,Naissances,Accouchements,1139.5,1139.5,2279.0,naissances
+2012,Naissances,Accouchements,1139.5,1139.5,2279.0,naissances
+2013,Naissances,Accouchements,1139.5,1139.5,2279.0,naissances
+2014,Naissances,Accouchements,1139.5,1139.5,2279.0,naissances
+2015,Naissances,Accouchements,1139.5,1139.5,2279.0,naissances
+2016,Naissances,Accouchements,1093.0,1093.0,2186.0,naissances
+2017,Naissances,Accouchements,1093.0,1093.0,2186.0,naissances
+2011,Naissances,Naissances,1228.5,1228.5,2457.0,naissances
+2012,Naissances,Naissances,1228.5,1228.5,2457.0,naissances
+2013,Naissances,Naissances,1228.5,1228.5,2457.0,naissances
+2014,Naissances,Naissances,1228.5,1228.5,2457.0,naissances
+2015,Naissances,Naissances,1228.5,1228.5,2457.0,naissances
+2016,Naissances,Naissances,1228.5,1228.5,2457.0,naissances
+2017,Naissances,Naissances,1228.5,1228.5,2457.0,naissances
+2011,Séjours,Ambulatoire (<24h),86529.0,1184.0,87713.0,séjours
+2012,Séjours,Ambulatoire (<24h),86529.0,1184.0,87713.0,séjours
+2013,Séjours,Ambulatoire (<24h),88872.0,1327.33,90199.33,séjours
+2014,Séjours,Ambulatoire (<24h),91215.0,1470.67,92685.67,séjours
+2015,Séjours,Ambulatoire (<24h),93558.0,1614.0,95172.0,séjours
+2016,Séjours,Ambulatoire (<24h),98791.28,1527.72,100319.0,séjours
+2017,Séjours,Ambulatoire (<24h),98791.28,1527.72,100319.0,séjours
+2011,Séjours,Hospitalisation complète (>24h),64693.0,3494.0,68187.0,séjours
+2012,Séjours,Hospitalisation complète (>24h),64693.0,3494.0,68187.0,séjours
+2013,Séjours,Hospitalisation complète (>24h),65973.0,3892.33,69865.33,séjours
+2014,Séjours,Hospitalisation complète (>24h),67253.0,4290.67,71543.67,séjours
+2015,Séjours,Hospitalisation complète (>24h),68533.0,4689.0,73222.0,séjours
+2016,Séjours,Hospitalisation complète (>24h),70751.46,4327.54,75079.0,séjours
+2017,Séjours,Hospitalisation complète (>24h),70751.46,4327.54,75079.0,séjours
+2011,Urgences,Passages totaux,83002.0,60860.5,143862.5,passages
+2012,Urgences,Passages totaux,85993.0,60860.5,146853.5,passages
+2013,Urgences,Passages totaux,77615.5,60860.5,138476.0,passages
+2014,Urgences,Passages totaux,69238.0,60860.5,130098.5,passages
+2015,Urgences,Passages totaux,60860.5,60860.5,121721.0,passages
+2016,Urgences,Passages totaux,63839.0,63839.0,127678.0,passages
+2017,Urgences,Passages totaux,63839.0,63839.0,127678.0,passages
+2011,Urgences,Patients admis en hospitalisation,10063.0,3794.0,13857.0,patients
+2012,Urgences,Patients admis en hospitalisation,10063.0,3794.0,13857.0,patients
+2013,Urgences,Patients admis en hospitalisation,7973.33,3794.0,11767.33,patients
+2014,Urgences,Patients admis en hospitalisation,5883.67,3794.0,9677.67,patients
+2015,Urgences,Patients admis en hospitalisation,3794.0,3794.0,7588.0,patients
+2016,Urgences,Patients admis en hospitalisation,3794.0,3794.0,7588.0,patients
+2017,Urgences,Patients admis en hospitalisation,3794.0,3794.0,7588.0,patients

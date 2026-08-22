@@ -1,0 +1,1513 @@
+year,month,site_code,indicateur,sous_indicateur,unite,value,value_crise
+2011,1,PLF,Actes,Actes opératoires,actes,2396.25,2300.4
+2011,2,PLF,Actes,Actes opératoires,actes,2156.62,1917.0
+2011,3,PLF,Actes,Actes opératoires,actes,1917.0,5367.6
+2011,4,PLF,Actes,Actes opératoires,actes,1797.19,7284.6
+2011,5,PLF,Actes,Actes opératoires,actes,1677.38,3450.6
+2011,6,PLF,Actes,Actes opératoires,actes,1677.38,1533.6
+2011,7,PLF,Actes,Actes opératoires,actes,2036.81,1150.2
+2011,8,PLF,Actes,Actes opératoires,actes,1917.0,1150.2
+2011,9,PLF,Actes,Actes opératoires,actes,1797.19,2300.4
+2011,10,PLF,Actes,Actes opératoires,actes,1797.19,4217.4
+2011,11,PLF,Actes,Actes opératoires,actes,1917.0,4600.8
+2011,12,PLF,Actes,Actes opératoires,actes,2875.5,3067.2
+2011,1,CFX,Actes,Actes opératoires,actes,2396.25,2300.4
+2011,2,CFX,Actes,Actes opératoires,actes,2156.62,1917.0
+2011,3,CFX,Actes,Actes opératoires,actes,1917.0,5367.6
+2011,4,CFX,Actes,Actes opératoires,actes,1797.19,7284.6
+2011,5,CFX,Actes,Actes opératoires,actes,1677.38,3450.6
+2011,6,CFX,Actes,Actes opératoires,actes,1677.38,1533.6
+2011,7,CFX,Actes,Actes opératoires,actes,2036.81,1150.2
+2011,8,CFX,Actes,Actes opératoires,actes,1917.0,1150.2
+2011,9,CFX,Actes,Actes opératoires,actes,1797.19,2300.4
+2011,10,CFX,Actes,Actes opératoires,actes,1797.19,4217.4
+2011,11,CFX,Actes,Actes opératoires,actes,1917.0,4600.8
+2011,12,CFX,Actes,Actes opératoires,actes,2875.5,3067.2
+2012,1,PLF,Actes,Actes opératoires,actes,2396.25,2300.4
+2012,2,PLF,Actes,Actes opératoires,actes,2156.62,1917.0
+2012,3,PLF,Actes,Actes opératoires,actes,1917.0,5367.6
+2012,4,PLF,Actes,Actes opératoires,actes,1797.19,7284.6
+2012,5,PLF,Actes,Actes opératoires,actes,1677.38,3450.6
+2012,6,PLF,Actes,Actes opératoires,actes,1677.38,1533.6
+2012,7,PLF,Actes,Actes opératoires,actes,2036.81,1150.2
+2012,8,PLF,Actes,Actes opératoires,actes,1917.0,1150.2
+2012,9,PLF,Actes,Actes opératoires,actes,1797.19,2300.4
+2012,10,PLF,Actes,Actes opératoires,actes,1797.19,4217.4
+2012,11,PLF,Actes,Actes opératoires,actes,1917.0,4600.8
+2012,12,PLF,Actes,Actes opératoires,actes,2875.5,3067.2
+2012,1,CFX,Actes,Actes opératoires,actes,2396.25,2300.4
+2012,2,CFX,Actes,Actes opératoires,actes,2156.62,1917.0
+2012,3,CFX,Actes,Actes opératoires,actes,1917.0,5367.6
+2012,4,CFX,Actes,Actes opératoires,actes,1797.19,7284.6
+2012,5,CFX,Actes,Actes opératoires,actes,1677.38,3450.6
+2012,6,CFX,Actes,Actes opératoires,actes,1677.38,1533.6
+2012,7,CFX,Actes,Actes opératoires,actes,2036.81,1150.2
+2012,8,CFX,Actes,Actes opératoires,actes,1917.0,1150.2
+2012,9,CFX,Actes,Actes opératoires,actes,1797.19,2300.4
+2012,10,CFX,Actes,Actes opératoires,actes,1797.19,4217.4
+2012,11,CFX,Actes,Actes opératoires,actes,1917.0,4600.8
+2012,12,CFX,Actes,Actes opératoires,actes,2875.5,3067.2
+2013,1,PLF,Actes,Actes opératoires,actes,2396.25,2300.4
+2013,2,PLF,Actes,Actes opératoires,actes,2156.62,1917.0
+2013,3,PLF,Actes,Actes opératoires,actes,1917.0,5367.6
+2013,4,PLF,Actes,Actes opératoires,actes,1797.19,7284.6
+2013,5,PLF,Actes,Actes opératoires,actes,1677.38,3450.6
+2013,6,PLF,Actes,Actes opératoires,actes,1677.38,1533.6
+2013,7,PLF,Actes,Actes opératoires,actes,2036.81,1150.2
+2013,8,PLF,Actes,Actes opératoires,actes,1917.0,1150.2
+2013,9,PLF,Actes,Actes opératoires,actes,1797.19,2300.4
+2013,10,PLF,Actes,Actes opératoires,actes,1797.19,4217.4
+2013,11,PLF,Actes,Actes opératoires,actes,1917.0,4600.8
+2013,12,PLF,Actes,Actes opératoires,actes,2875.5,3067.2
+2013,1,CFX,Actes,Actes opératoires,actes,2396.25,2300.4
+2013,2,CFX,Actes,Actes opératoires,actes,2156.62,1917.0
+2013,3,CFX,Actes,Actes opératoires,actes,1917.0,5367.6
+2013,4,CFX,Actes,Actes opératoires,actes,1797.19,7284.6
+2013,5,CFX,Actes,Actes opératoires,actes,1677.38,3450.6
+2013,6,CFX,Actes,Actes opératoires,actes,1677.38,1533.6
+2013,7,CFX,Actes,Actes opératoires,actes,2036.81,1150.2
+2013,8,CFX,Actes,Actes opératoires,actes,1917.0,1150.2
+2013,9,CFX,Actes,Actes opératoires,actes,1797.19,2300.4
+2013,10,CFX,Actes,Actes opératoires,actes,1797.19,4217.4
+2013,11,CFX,Actes,Actes opératoires,actes,1917.0,4600.8
+2013,12,CFX,Actes,Actes opératoires,actes,2875.5,3067.2
+2014,1,PLF,Actes,Actes opératoires,actes,2396.25,2300.4
+2014,2,PLF,Actes,Actes opératoires,actes,2156.62,1917.0
+2014,3,PLF,Actes,Actes opératoires,actes,1917.0,5367.6
+2014,4,PLF,Actes,Actes opératoires,actes,1797.19,7284.6
+2014,5,PLF,Actes,Actes opératoires,actes,1677.38,3450.6
+2014,6,PLF,Actes,Actes opératoires,actes,1677.38,1533.6
+2014,7,PLF,Actes,Actes opératoires,actes,2036.81,1150.2
+2014,8,PLF,Actes,Actes opératoires,actes,1917.0,1150.2
+2014,9,PLF,Actes,Actes opératoires,actes,1797.19,2300.4
+2014,10,PLF,Actes,Actes opératoires,actes,1797.19,4217.4
+2014,11,PLF,Actes,Actes opératoires,actes,1917.0,4600.8
+2014,12,PLF,Actes,Actes opératoires,actes,2875.5,3067.2
+2014,1,CFX,Actes,Actes opératoires,actes,2396.25,2300.4
+2014,2,CFX,Actes,Actes opératoires,actes,2156.62,1917.0
+2014,3,CFX,Actes,Actes opératoires,actes,1917.0,5367.6
+2014,4,CFX,Actes,Actes opératoires,actes,1797.19,7284.6
+2014,5,CFX,Actes,Actes opératoires,actes,1677.38,3450.6
+2014,6,CFX,Actes,Actes opératoires,actes,1677.38,1533.6
+2014,7,CFX,Actes,Actes opératoires,actes,2036.81,1150.2
+2014,8,CFX,Actes,Actes opératoires,actes,1917.0,1150.2
+2014,9,CFX,Actes,Actes opératoires,actes,1797.19,2300.4
+2014,10,CFX,Actes,Actes opératoires,actes,1797.19,4217.4
+2014,11,CFX,Actes,Actes opératoires,actes,1917.0,4600.8
+2014,12,CFX,Actes,Actes opératoires,actes,2875.5,3067.2
+2015,1,PLF,Actes,Actes opératoires,actes,2396.25,2300.4
+2015,2,PLF,Actes,Actes opératoires,actes,2156.62,1917.0
+2015,3,PLF,Actes,Actes opératoires,actes,1917.0,5367.6
+2015,4,PLF,Actes,Actes opératoires,actes,1797.19,7284.6
+2015,5,PLF,Actes,Actes opératoires,actes,1677.38,3450.6
+2015,6,PLF,Actes,Actes opératoires,actes,1677.38,1533.6
+2015,7,PLF,Actes,Actes opératoires,actes,2036.81,1150.2
+2015,8,PLF,Actes,Actes opératoires,actes,1917.0,1150.2
+2015,9,PLF,Actes,Actes opératoires,actes,1797.19,2300.4
+2015,10,PLF,Actes,Actes opératoires,actes,1797.19,4217.4
+2015,11,PLF,Actes,Actes opératoires,actes,1917.0,4600.8
+2015,12,PLF,Actes,Actes opératoires,actes,2875.5,3067.2
+2015,1,CFX,Actes,Actes opératoires,actes,2396.25,2300.4
+2015,2,CFX,Actes,Actes opératoires,actes,2156.62,1917.0
+2015,3,CFX,Actes,Actes opératoires,actes,1917.0,5367.6
+2015,4,CFX,Actes,Actes opératoires,actes,1797.19,7284.6
+2015,5,CFX,Actes,Actes opératoires,actes,1677.38,3450.6
+2015,6,CFX,Actes,Actes opératoires,actes,1677.38,1533.6
+2015,7,CFX,Actes,Actes opératoires,actes,2036.81,1150.2
+2015,8,CFX,Actes,Actes opératoires,actes,1917.0,1150.2
+2015,9,CFX,Actes,Actes opératoires,actes,1797.19,2300.4
+2015,10,CFX,Actes,Actes opératoires,actes,1797.19,4217.4
+2015,11,CFX,Actes,Actes opératoires,actes,1917.0,4600.8
+2015,12,CFX,Actes,Actes opératoires,actes,2875.5,3067.2
+2016,1,PLF,Actes,Actes opératoires,actes,2396.25,2300.4
+2016,2,PLF,Actes,Actes opératoires,actes,2156.62,1917.0
+2016,3,PLF,Actes,Actes opératoires,actes,1917.0,5367.6
+2016,4,PLF,Actes,Actes opératoires,actes,1797.19,7284.6
+2016,5,PLF,Actes,Actes opératoires,actes,1677.38,3450.6
+2016,6,PLF,Actes,Actes opératoires,actes,1677.38,1533.6
+2016,7,PLF,Actes,Actes opératoires,actes,2036.81,1150.2
+2016,8,PLF,Actes,Actes opératoires,actes,1917.0,1150.2
+2016,9,PLF,Actes,Actes opératoires,actes,1797.19,2300.4
+2016,10,PLF,Actes,Actes opératoires,actes,1797.19,4217.4
+2016,11,PLF,Actes,Actes opératoires,actes,1917.0,4600.8
+2016,12,PLF,Actes,Actes opératoires,actes,2875.5,3067.2
+2016,1,CFX,Actes,Actes opératoires,actes,2396.25,2300.4
+2016,2,CFX,Actes,Actes opératoires,actes,2156.62,1917.0
+2016,3,CFX,Actes,Actes opératoires,actes,1917.0,5367.6
+2016,4,CFX,Actes,Actes opératoires,actes,1797.19,7284.6
+2016,5,CFX,Actes,Actes opératoires,actes,1677.38,3450.6
+2016,6,CFX,Actes,Actes opératoires,actes,1677.38,1533.6
+2016,7,CFX,Actes,Actes opératoires,actes,2036.81,1150.2
+2016,8,CFX,Actes,Actes opératoires,actes,1917.0,1150.2
+2016,9,CFX,Actes,Actes opératoires,actes,1797.19,2300.4
+2016,10,CFX,Actes,Actes opératoires,actes,1797.19,4217.4
+2016,11,CFX,Actes,Actes opératoires,actes,1917.0,4600.8
+2016,12,CFX,Actes,Actes opératoires,actes,2875.5,3067.2
+2017,1,PLF,Actes,Actes opératoires,actes,2396.25,2300.4
+2017,2,PLF,Actes,Actes opératoires,actes,2156.62,1917.0
+2017,3,PLF,Actes,Actes opératoires,actes,1917.0,5367.6
+2017,4,PLF,Actes,Actes opératoires,actes,1797.19,7284.6
+2017,5,PLF,Actes,Actes opératoires,actes,1677.38,3450.6
+2017,6,PLF,Actes,Actes opératoires,actes,1677.38,1533.6
+2017,7,PLF,Actes,Actes opératoires,actes,2036.81,1150.2
+2017,8,PLF,Actes,Actes opératoires,actes,1917.0,1150.2
+2017,9,PLF,Actes,Actes opératoires,actes,1797.19,2300.4
+2017,10,PLF,Actes,Actes opératoires,actes,1797.19,4217.4
+2017,11,PLF,Actes,Actes opératoires,actes,1917.0,4600.8
+2017,12,PLF,Actes,Actes opératoires,actes,2875.5,3067.2
+2017,1,CFX,Actes,Actes opératoires,actes,2396.25,2300.4
+2017,2,CFX,Actes,Actes opératoires,actes,2156.62,1917.0
+2017,3,CFX,Actes,Actes opératoires,actes,1917.0,5367.6
+2017,4,CFX,Actes,Actes opératoires,actes,1797.19,7284.6
+2017,5,CFX,Actes,Actes opératoires,actes,1677.38,3450.6
+2017,6,CFX,Actes,Actes opératoires,actes,1677.38,1533.6
+2017,7,CFX,Actes,Actes opératoires,actes,2036.81,1150.2
+2017,8,CFX,Actes,Actes opératoires,actes,1917.0,1150.2
+2017,9,CFX,Actes,Actes opératoires,actes,1797.19,2300.4
+2017,10,CFX,Actes,Actes opératoires,actes,1797.19,4217.4
+2017,11,CFX,Actes,Actes opératoires,actes,1917.0,4600.8
+2017,12,CFX,Actes,Actes opératoires,actes,2875.5,3067.2
+2011,1,PLF,Consultations,Consultations externes,consultations,65704.7,63076.51
+2011,2,PLF,Consultations,Consultations externes,consultations,59134.23,52563.76
+2011,3,PLF,Consultations,Consultations externes,consultations,52563.76,147178.53
+2011,4,PLF,Consultations,Consultations externes,consultations,49278.53,199742.29
+2011,5,PLF,Consultations,Consultations externes,consultations,45993.29,94614.77
+2011,6,PLF,Consultations,Consultations externes,consultations,45993.29,42051.01
+2011,7,PLF,Consultations,Consultations externes,consultations,55849.0,31538.26
+2011,8,PLF,Consultations,Consultations externes,consultations,52563.76,31538.26
+2011,9,PLF,Consultations,Consultations externes,consultations,49278.53,63076.51
+2011,10,PLF,Consultations,Consultations externes,consultations,49278.53,115640.27
+2011,11,PLF,Consultations,Consultations externes,consultations,52563.76,126153.02
+2011,12,PLF,Consultations,Consultations externes,consultations,78845.64,84102.02
+2011,1,CFX,Consultations,Consultations externes,consultations,391.1,375.46
+2011,2,CFX,Consultations,Consultations externes,consultations,351.99,312.88
+2011,3,CFX,Consultations,Consultations externes,consultations,312.88,876.06
+2011,4,CFX,Consultations,Consultations externes,consultations,293.32,1188.94
+2011,5,CFX,Consultations,Consultations externes,consultations,273.77,563.18
+2011,6,CFX,Consultations,Consultations externes,consultations,273.77,250.3
+2011,7,CFX,Consultations,Consultations externes,consultations,332.44,187.73
+2011,8,CFX,Consultations,Consultations externes,consultations,312.88,187.73
+2011,9,CFX,Consultations,Consultations externes,consultations,293.32,375.46
+2011,10,CFX,Consultations,Consultations externes,consultations,293.32,688.34
+2011,11,CFX,Consultations,Consultations externes,consultations,312.88,750.91
+2011,12,CFX,Consultations,Consultations externes,consultations,469.32,500.61
+2012,1,PLF,Consultations,Consultations externes,consultations,65704.7,63076.51
+2012,2,PLF,Consultations,Consultations externes,consultations,59134.23,52563.76
+2012,3,PLF,Consultations,Consultations externes,consultations,52563.76,147178.53
+2012,4,PLF,Consultations,Consultations externes,consultations,49278.53,199742.29
+2012,5,PLF,Consultations,Consultations externes,consultations,45993.29,94614.77
+2012,6,PLF,Consultations,Consultations externes,consultations,45993.29,42051.01
+2012,7,PLF,Consultations,Consultations externes,consultations,55849.0,31538.26
+2012,8,PLF,Consultations,Consultations externes,consultations,52563.76,31538.26
+2012,9,PLF,Consultations,Consultations externes,consultations,49278.53,63076.51
+2012,10,PLF,Consultations,Consultations externes,consultations,49278.53,115640.27
+2012,11,PLF,Consultations,Consultations externes,consultations,52563.76,126153.02
+2012,12,PLF,Consultations,Consultations externes,consultations,78845.64,84102.02
+2012,1,CFX,Consultations,Consultations externes,consultations,391.1,375.46
+2012,2,CFX,Consultations,Consultations externes,consultations,351.99,312.88
+2012,3,CFX,Consultations,Consultations externes,consultations,312.88,876.06
+2012,4,CFX,Consultations,Consultations externes,consultations,293.32,1188.94
+2012,5,CFX,Consultations,Consultations externes,consultations,273.77,563.18
+2012,6,CFX,Consultations,Consultations externes,consultations,273.77,250.3
+2012,7,CFX,Consultations,Consultations externes,consultations,332.44,187.73
+2012,8,CFX,Consultations,Consultations externes,consultations,312.88,187.73
+2012,9,CFX,Consultations,Consultations externes,consultations,293.32,375.46
+2012,10,CFX,Consultations,Consultations externes,consultations,293.32,688.34
+2012,11,CFX,Consultations,Consultations externes,consultations,312.88,750.91
+2012,12,CFX,Consultations,Consultations externes,consultations,469.32,500.61
+2013,1,PLF,Consultations,Consultations externes,consultations,63948.22,61390.29
+2013,2,PLF,Consultations,Consultations externes,consultations,57553.4,51158.58
+2013,3,PLF,Consultations,Consultations externes,consultations,51158.58,143244.02
+2013,4,PLF,Consultations,Consultations externes,consultations,47961.17,194402.59
+2013,5,PLF,Consultations,Consultations externes,consultations,44763.76,92085.44
+2013,6,PLF,Consultations,Consultations externes,consultations,44763.76,40926.86
+2013,7,PLF,Consultations,Consultations externes,consultations,54355.99,30695.15
+2013,8,PLF,Consultations,Consultations externes,consultations,51158.58,30695.15
+2013,9,PLF,Consultations,Consultations externes,consultations,47961.17,61390.29
+2013,10,PLF,Consultations,Consultations externes,consultations,47961.17,112548.87
+2013,11,PLF,Consultations,Consultations externes,consultations,51158.58,122780.59
+2013,12,PLF,Consultations,Consultations externes,consultations,76737.87,81853.72
+2013,1,CFX,Consultations,Consultations externes,consultations,380.64,365.42
+2013,2,CFX,Consultations,Consultations externes,consultations,342.58,304.52
+2013,3,CFX,Consultations,Consultations externes,consultations,304.52,852.64
+2013,4,CFX,Consultations,Consultations externes,consultations,285.48,1157.16
+2013,5,CFX,Consultations,Consultations externes,consultations,266.45,548.13
+2013,6,CFX,Consultations,Consultations externes,consultations,266.45,243.61
+2013,7,CFX,Consultations,Consultations externes,consultations,323.55,182.71
+2013,8,CFX,Consultations,Consultations externes,consultations,304.52,182.71
+2013,9,CFX,Consultations,Consultations externes,consultations,285.48,365.42
+2013,10,CFX,Consultations,Consultations externes,consultations,285.48,669.94
+2013,11,CFX,Consultations,Consultations externes,consultations,304.52,730.84
+2013,12,CFX,Consultations,Consultations externes,consultations,456.77,487.23
+2014,1,PLF,Consultations,Consultations externes,consultations,62191.74,59704.07
+2014,2,PLF,Consultations,Consultations externes,consultations,55972.57,49753.39
+2014,3,PLF,Consultations,Consultations externes,consultations,49753.4,139309.51
+2014,4,PLF,Consultations,Consultations externes,consultations,46643.81,189062.9
+2014,5,PLF,Consultations,Consultations externes,consultations,43534.22,89556.11
+2014,6,PLF,Consultations,Consultations externes,consultations,43534.22,39802.72
+2014,7,PLF,Consultations,Consultations externes,consultations,52862.98,29852.04
+2014,8,PLF,Consultations,Consultations externes,consultations,49753.4,29852.04
+2014,9,PLF,Consultations,Consultations externes,consultations,46643.81,59704.07
+2014,10,PLF,Consultations,Consultations externes,consultations,46643.81,109457.47
+2014,11,PLF,Consultations,Consultations externes,consultations,49753.4,119408.15
+2014,12,PLF,Consultations,Consultations externes,consultations,74630.09,79605.43
+2014,1,CFX,Consultations,Consultations externes,consultations,370.19,355.38
+2014,2,CFX,Consultations,Consultations externes,consultations,333.17,296.15
+2014,3,CFX,Consultations,Consultations externes,consultations,296.15,829.23
+2014,4,CFX,Consultations,Consultations externes,consultations,277.64,1125.38
+2014,5,CFX,Consultations,Consultations externes,consultations,259.13,533.07
+2014,6,CFX,Consultations,Consultations externes,consultations,259.13,236.92
+2014,7,CFX,Consultations,Consultations externes,consultations,314.66,177.69
+2014,8,CFX,Consultations,Consultations externes,consultations,296.15,177.69
+2014,9,CFX,Consultations,Consultations externes,consultations,277.64,355.38
+2014,10,CFX,Consultations,Consultations externes,consultations,277.64,651.53
+2014,11,CFX,Consultations,Consultations externes,consultations,296.15,710.76
+2014,12,CFX,Consultations,Consultations externes,consultations,444.23,473.84
+2015,1,PLF,Consultations,Consultations externes,consultations,60435.27,58017.86
+2015,2,PLF,Consultations,Consultations externes,consultations,54391.74,48348.21
+2015,3,PLF,Consultations,Consultations externes,consultations,48348.21,135375.0
+2015,4,PLF,Consultations,Consultations externes,consultations,45326.45,183723.21
+2015,5,PLF,Consultations,Consultations externes,consultations,42304.69,87026.78
+2015,6,PLF,Consultations,Consultations externes,consultations,42304.69,38678.57
+2015,7,PLF,Consultations,Consultations externes,consultations,51369.98,29008.93
+2015,8,PLF,Consultations,Consultations externes,consultations,48348.21,29008.93
+2015,9,PLF,Consultations,Consultations externes,consultations,45326.45,58017.86
+2015,10,PLF,Consultations,Consultations externes,consultations,45326.45,106366.07
+2015,11,PLF,Consultations,Consultations externes,consultations,48348.21,116035.71
+2015,12,PLF,Consultations,Consultations externes,consultations,72522.32,77357.14
+2015,1,CFX,Consultations,Consultations externes,consultations,359.73,345.34
+2015,2,CFX,Consultations,Consultations externes,consultations,323.76,287.79
+2015,3,CFX,Consultations,Consultations externes,consultations,287.79,805.8
+2015,4,CFX,Consultations,Consultations externes,consultations,269.8,1093.59
+2015,5,CFX,Consultations,Consultations externes,consultations,251.81,518.02
+2015,6,CFX,Consultations,Consultations externes,consultations,251.81,230.23
+2015,7,CFX,Consultations,Consultations externes,consultations,305.77,172.67
+2015,8,CFX,Consultations,Consultations externes,consultations,287.79,172.67
+2015,9,CFX,Consultations,Consultations externes,consultations,269.8,345.34
+2015,10,CFX,Consultations,Consultations externes,consultations,269.8,633.13
+2015,11,CFX,Consultations,Consultations externes,consultations,287.79,690.69
+2015,12,CFX,Consultations,Consultations externes,consultations,431.68,460.46
+2016,1,PLF,Consultations,Consultations externes,consultations,64078.78,61515.63
+2016,2,PLF,Consultations,Consultations externes,consultations,57670.9,51263.02
+2016,3,PLF,Consultations,Consultations externes,consultations,51263.02,143536.46
+2016,4,PLF,Consultations,Consultations externes,consultations,48059.08,194799.49
+2016,5,PLF,Consultations,Consultations externes,consultations,44855.14,92273.44
+2016,6,PLF,Consultations,Consultations externes,consultations,44855.14,41010.42
+2016,7,PLF,Consultations,Consultations externes,consultations,54466.96,30757.81
+2016,8,PLF,Consultations,Consultations externes,consultations,51263.02,30757.81
+2016,9,PLF,Consultations,Consultations externes,consultations,48059.08,61515.63
+2016,10,PLF,Consultations,Consultations externes,consultations,48059.08,112778.65
+2016,11,PLF,Consultations,Consultations externes,consultations,51263.02,123031.25
+2016,12,PLF,Consultations,Consultations externes,consultations,76894.53,82020.84
+2016,1,CFX,Consultations,Consultations externes,consultations,381.42,366.17
+2016,2,CFX,Consultations,Consultations externes,consultations,343.28,305.14
+2016,3,CFX,Consultations,Consultations externes,consultations,305.14,854.38
+2016,4,CFX,Consultations,Consultations externes,consultations,286.07,1159.52
+2016,5,CFX,Consultations,Consultations externes,consultations,267.0,549.25
+2016,6,CFX,Consultations,Consultations externes,consultations,267.0,244.11
+2016,7,CFX,Consultations,Consultations externes,consultations,324.21,183.08
+2016,8,CFX,Consultations,Consultations externes,consultations,305.14,183.08
+2016,9,CFX,Consultations,Consultations externes,consultations,286.07,366.17
+2016,10,CFX,Consultations,Consultations externes,consultations,286.07,671.3
+2016,11,CFX,Consultations,Consultations externes,consultations,305.14,732.33
+2016,12,CFX,Consultations,Consultations externes,consultations,457.71,488.22
+2017,1,PLF,Consultations,Consultations externes,consultations,64078.78,61515.63
+2017,2,PLF,Consultations,Consultations externes,consultations,57670.9,51263.02
+2017,3,PLF,Consultations,Consultations externes,consultations,51263.02,143536.46
+2017,4,PLF,Consultations,Consultations externes,consultations,48059.08,194799.49
+2017,5,PLF,Consultations,Consultations externes,consultations,44855.14,92273.44
+2017,6,PLF,Consultations,Consultations externes,consultations,44855.14,41010.42
+2017,7,PLF,Consultations,Consultations externes,consultations,54466.96,30757.81
+2017,8,PLF,Consultations,Consultations externes,consultations,51263.02,30757.81
+2017,9,PLF,Consultations,Consultations externes,consultations,48059.08,61515.63
+2017,10,PLF,Consultations,Consultations externes,consultations,48059.08,112778.65
+2017,11,PLF,Consultations,Consultations externes,consultations,51263.02,123031.25
+2017,12,PLF,Consultations,Consultations externes,consultations,76894.53,82020.84
+2017,1,CFX,Consultations,Consultations externes,consultations,381.42,366.17
+2017,2,CFX,Consultations,Consultations externes,consultations,343.28,305.14
+2017,3,CFX,Consultations,Consultations externes,consultations,305.14,854.38
+2017,4,CFX,Consultations,Consultations externes,consultations,286.07,1159.52
+2017,5,CFX,Consultations,Consultations externes,consultations,267.0,549.25
+2017,6,CFX,Consultations,Consultations externes,consultations,267.0,244.11
+2017,7,CFX,Consultations,Consultations externes,consultations,324.21,183.08
+2017,8,CFX,Consultations,Consultations externes,consultations,305.14,183.08
+2017,9,CFX,Consultations,Consultations externes,consultations,286.07,366.17
+2017,10,CFX,Consultations,Consultations externes,consultations,286.07,671.3
+2017,11,CFX,Consultations,Consultations externes,consultations,305.14,732.33
+2017,12,CFX,Consultations,Consultations externes,consultations,457.71,488.22
+2011,1,PLF,Greffes,Transplantations,greffes,15.7,15.07
+2011,2,PLF,Greffes,Transplantations,greffes,14.13,12.56
+2011,3,PLF,Greffes,Transplantations,greffes,12.56,35.17
+2011,4,PLF,Greffes,Transplantations,greffes,11.78,47.73
+2011,5,PLF,Greffes,Transplantations,greffes,10.99,22.61
+2011,6,PLF,Greffes,Transplantations,greffes,10.99,10.05
+2011,7,PLF,Greffes,Transplantations,greffes,13.35,7.54
+2011,8,PLF,Greffes,Transplantations,greffes,12.56,7.54
+2011,9,PLF,Greffes,Transplantations,greffes,11.78,15.07
+2011,10,PLF,Greffes,Transplantations,greffes,11.78,27.63
+2011,11,PLF,Greffes,Transplantations,greffes,12.56,30.14
+2011,12,PLF,Greffes,Transplantations,greffes,18.84,20.1
+2011,1,CFX,Greffes,Transplantations,greffes,15.7,15.07
+2011,2,CFX,Greffes,Transplantations,greffes,14.13,12.56
+2011,3,CFX,Greffes,Transplantations,greffes,12.56,35.17
+2011,4,CFX,Greffes,Transplantations,greffes,11.78,47.73
+2011,5,CFX,Greffes,Transplantations,greffes,10.99,22.61
+2011,6,CFX,Greffes,Transplantations,greffes,10.99,10.05
+2011,7,CFX,Greffes,Transplantations,greffes,13.35,7.54
+2011,8,CFX,Greffes,Transplantations,greffes,12.56,7.54
+2011,9,CFX,Greffes,Transplantations,greffes,11.78,15.07
+2011,10,CFX,Greffes,Transplantations,greffes,11.78,27.63
+2011,11,CFX,Greffes,Transplantations,greffes,12.56,30.14
+2011,12,CFX,Greffes,Transplantations,greffes,18.84,20.1
+2012,1,PLF,Greffes,Transplantations,greffes,15.7,15.07
+2012,2,PLF,Greffes,Transplantations,greffes,14.13,12.56
+2012,3,PLF,Greffes,Transplantations,greffes,12.56,35.17
+2012,4,PLF,Greffes,Transplantations,greffes,11.78,47.73
+2012,5,PLF,Greffes,Transplantations,greffes,10.99,22.61
+2012,6,PLF,Greffes,Transplantations,greffes,10.99,10.05
+2012,7,PLF,Greffes,Transplantations,greffes,13.35,7.54
+2012,8,PLF,Greffes,Transplantations,greffes,12.56,7.54
+2012,9,PLF,Greffes,Transplantations,greffes,11.78,15.07
+2012,10,PLF,Greffes,Transplantations,greffes,11.78,27.63
+2012,11,PLF,Greffes,Transplantations,greffes,12.56,30.14
+2012,12,PLF,Greffes,Transplantations,greffes,18.84,20.1
+2012,1,CFX,Greffes,Transplantations,greffes,15.7,15.07
+2012,2,CFX,Greffes,Transplantations,greffes,14.13,12.56
+2012,3,CFX,Greffes,Transplantations,greffes,12.56,35.17
+2012,4,CFX,Greffes,Transplantations,greffes,11.78,47.73
+2012,5,CFX,Greffes,Transplantations,greffes,10.99,22.61
+2012,6,CFX,Greffes,Transplantations,greffes,10.99,10.05
+2012,7,CFX,Greffes,Transplantations,greffes,13.35,7.54
+2012,8,CFX,Greffes,Transplantations,greffes,12.56,7.54
+2012,9,CFX,Greffes,Transplantations,greffes,11.78,15.07
+2012,10,CFX,Greffes,Transplantations,greffes,11.78,27.63
+2012,11,CFX,Greffes,Transplantations,greffes,12.56,30.14
+2012,12,CFX,Greffes,Transplantations,greffes,18.84,20.1
+2013,1,PLF,Greffes,Transplantations,greffes,16.77,16.1
+2013,2,PLF,Greffes,Transplantations,greffes,15.09,13.41
+2013,3,PLF,Greffes,Transplantations,greffes,13.41,37.56
+2013,4,PLF,Greffes,Transplantations,greffes,12.58,50.97
+2013,5,PLF,Greffes,Transplantations,greffes,11.74,24.14
+2013,6,PLF,Greffes,Transplantations,greffes,11.74,10.73
+2013,7,PLF,Greffes,Transplantations,greffes,14.25,8.05
+2013,8,PLF,Greffes,Transplantations,greffes,13.41,8.05
+2013,9,PLF,Greffes,Transplantations,greffes,12.58,16.1
+2013,10,PLF,Greffes,Transplantations,greffes,12.58,29.51
+2013,11,PLF,Greffes,Transplantations,greffes,13.41,32.19
+2013,12,PLF,Greffes,Transplantations,greffes,20.12,21.46
+2013,1,CFX,Greffes,Transplantations,greffes,16.77,16.1
+2013,2,CFX,Greffes,Transplantations,greffes,15.09,13.41
+2013,3,CFX,Greffes,Transplantations,greffes,13.41,37.56
+2013,4,CFX,Greffes,Transplantations,greffes,12.58,50.97
+2013,5,CFX,Greffes,Transplantations,greffes,11.74,24.14
+2013,6,CFX,Greffes,Transplantations,greffes,11.74,10.73
+2013,7,CFX,Greffes,Transplantations,greffes,14.25,8.05
+2013,8,CFX,Greffes,Transplantations,greffes,13.41,8.05
+2013,9,CFX,Greffes,Transplantations,greffes,12.58,16.1
+2013,10,CFX,Greffes,Transplantations,greffes,12.58,29.51
+2013,11,CFX,Greffes,Transplantations,greffes,13.41,32.19
+2013,12,CFX,Greffes,Transplantations,greffes,20.12,21.46
+2014,1,PLF,Greffes,Transplantations,greffes,17.83,17.12
+2014,2,PLF,Greffes,Transplantations,greffes,16.05,14.27
+2014,3,PLF,Greffes,Transplantations,greffes,14.27,39.95
+2014,4,PLF,Greffes,Transplantations,greffes,13.37,54.21
+2014,5,PLF,Greffes,Transplantations,greffes,12.48,25.68
+2014,6,PLF,Greffes,Transplantations,greffes,12.48,11.41
+2014,7,PLF,Greffes,Transplantations,greffes,15.16,8.56
+2014,8,PLF,Greffes,Transplantations,greffes,14.27,8.56
+2014,9,PLF,Greffes,Transplantations,greffes,13.37,17.12
+2014,10,PLF,Greffes,Transplantations,greffes,13.37,31.39
+2014,11,PLF,Greffes,Transplantations,greffes,14.27,34.24
+2014,12,PLF,Greffes,Transplantations,greffes,21.4,22.83
+2014,1,CFX,Greffes,Transplantations,greffes,17.83,17.12
+2014,2,CFX,Greffes,Transplantations,greffes,16.05,14.27
+2014,3,CFX,Greffes,Transplantations,greffes,14.27,39.95
+2014,4,CFX,Greffes,Transplantations,greffes,13.37,54.21
+2014,5,CFX,Greffes,Transplantations,greffes,12.48,25.68
+2014,6,CFX,Greffes,Transplantations,greffes,12.48,11.41
+2014,7,CFX,Greffes,Transplantations,greffes,15.16,8.56
+2014,8,CFX,Greffes,Transplantations,greffes,14.27,8.56
+2014,9,CFX,Greffes,Transplantations,greffes,13.37,17.12
+2014,10,CFX,Greffes,Transplantations,greffes,13.37,31.39
+2014,11,CFX,Greffes,Transplantations,greffes,14.27,34.24
+2014,12,CFX,Greffes,Transplantations,greffes,21.4,22.83
+2015,1,PLF,Greffes,Transplantations,greffes,18.9,18.14
+2015,2,PLF,Greffes,Transplantations,greffes,17.01,15.12
+2015,3,PLF,Greffes,Transplantations,greffes,15.12,42.34
+2015,4,PLF,Greffes,Transplantations,greffes,14.18,57.46
+2015,5,PLF,Greffes,Transplantations,greffes,13.23,27.22
+2015,6,PLF,Greffes,Transplantations,greffes,13.23,12.1
+2015,7,PLF,Greffes,Transplantations,greffes,16.07,9.07
+2015,8,PLF,Greffes,Transplantations,greffes,15.12,9.07
+2015,9,PLF,Greffes,Transplantations,greffes,14.18,18.14
+2015,10,PLF,Greffes,Transplantations,greffes,14.18,33.26
+2015,11,PLF,Greffes,Transplantations,greffes,15.12,36.29
+2015,12,PLF,Greffes,Transplantations,greffes,22.68,24.19
+2015,1,CFX,Greffes,Transplantations,greffes,18.9,18.14
+2015,2,CFX,Greffes,Transplantations,greffes,17.01,15.12
+2015,3,CFX,Greffes,Transplantations,greffes,15.12,42.34
+2015,4,CFX,Greffes,Transplantations,greffes,14.18,57.46
+2015,5,CFX,Greffes,Transplantations,greffes,13.23,27.22
+2015,6,CFX,Greffes,Transplantations,greffes,13.23,12.1
+2015,7,CFX,Greffes,Transplantations,greffes,16.07,9.07
+2015,8,CFX,Greffes,Transplantations,greffes,15.12,9.07
+2015,9,CFX,Greffes,Transplantations,greffes,14.18,18.14
+2015,10,CFX,Greffes,Transplantations,greffes,14.18,33.26
+2015,11,CFX,Greffes,Transplantations,greffes,15.12,36.29
+2015,12,CFX,Greffes,Transplantations,greffes,22.68,24.19
+2016,1,PLF,Greffes,Transplantations,greffes,19.7,18.91
+2016,2,PLF,Greffes,Transplantations,greffes,17.73,15.76
+2016,3,PLF,Greffes,Transplantations,greffes,15.76,44.13
+2016,4,PLF,Greffes,Transplantations,greffes,14.78,59.89
+2016,5,PLF,Greffes,Transplantations,greffes,13.79,28.37
+2016,6,PLF,Greffes,Transplantations,greffes,13.79,12.61
+2016,7,PLF,Greffes,Transplantations,greffes,16.75,9.46
+2016,8,PLF,Greffes,Transplantations,greffes,15.76,9.46
+2016,9,PLF,Greffes,Transplantations,greffes,14.78,18.91
+2016,10,PLF,Greffes,Transplantations,greffes,14.78,34.67
+2016,11,PLF,Greffes,Transplantations,greffes,15.76,37.82
+2016,12,PLF,Greffes,Transplantations,greffes,23.64,25.22
+2016,1,CFX,Greffes,Transplantations,greffes,19.7,18.91
+2016,2,CFX,Greffes,Transplantations,greffes,17.73,15.76
+2016,3,CFX,Greffes,Transplantations,greffes,15.76,44.13
+2016,4,CFX,Greffes,Transplantations,greffes,14.78,59.89
+2016,5,CFX,Greffes,Transplantations,greffes,13.79,28.37
+2016,6,CFX,Greffes,Transplantations,greffes,13.79,12.61
+2016,7,CFX,Greffes,Transplantations,greffes,16.75,9.46
+2016,8,CFX,Greffes,Transplantations,greffes,15.76,9.46
+2016,9,CFX,Greffes,Transplantations,greffes,14.78,18.91
+2016,10,CFX,Greffes,Transplantations,greffes,14.78,34.67
+2016,11,CFX,Greffes,Transplantations,greffes,15.76,37.82
+2016,12,CFX,Greffes,Transplantations,greffes,23.64,25.22
+2017,1,PLF,Greffes,Transplantations,greffes,19.7,18.91
+2017,2,PLF,Greffes,Transplantations,greffes,17.73,15.76
+2017,3,PLF,Greffes,Transplantations,greffes,15.76,44.13
+2017,4,PLF,Greffes,Transplantations,greffes,14.78,59.89
+2017,5,PLF,Greffes,Transplantations,greffes,13.79,28.37
+2017,6,PLF,Greffes,Transplantations,greffes,13.79,12.61
+2017,7,PLF,Greffes,Transplantations,greffes,16.75,9.46
+2017,8,PLF,Greffes,Transplantations,greffes,15.76,9.46
+2017,9,PLF,Greffes,Transplantations,greffes,14.78,18.91
+2017,10,PLF,Greffes,Transplantations,greffes,14.78,34.67
+2017,11,PLF,Greffes,Transplantations,greffes,15.76,37.82
+2017,12,PLF,Greffes,Transplantations,greffes,23.64,25.22
+2017,1,CFX,Greffes,Transplantations,greffes,19.7,18.91
+2017,2,CFX,Greffes,Transplantations,greffes,17.73,15.76
+2017,3,CFX,Greffes,Transplantations,greffes,15.76,44.13
+2017,4,CFX,Greffes,Transplantations,greffes,14.78,59.89
+2017,5,CFX,Greffes,Transplantations,greffes,13.79,28.37
+2017,6,CFX,Greffes,Transplantations,greffes,13.79,12.61
+2017,7,CFX,Greffes,Transplantations,greffes,16.75,9.46
+2017,8,CFX,Greffes,Transplantations,greffes,15.76,9.46
+2017,9,CFX,Greffes,Transplantations,greffes,14.78,18.91
+2017,10,CFX,Greffes,Transplantations,greffes,14.78,34.67
+2017,11,CFX,Greffes,Transplantations,greffes,15.76,37.82
+2017,12,CFX,Greffes,Transplantations,greffes,23.64,25.22
+2011,1,PLF,Naissances,Accouchements,naissances,113.95,109.39
+2011,2,PLF,Naissances,Accouchements,naissances,102.56,91.16
+2011,3,PLF,Naissances,Accouchements,naissances,91.16,255.25
+2011,4,PLF,Naissances,Accouchements,naissances,85.46,346.41
+2011,5,PLF,Naissances,Accouchements,naissances,79.77,164.09
+2011,6,PLF,Naissances,Accouchements,naissances,79.77,72.93
+2011,7,PLF,Naissances,Accouchements,naissances,96.86,54.7
+2011,8,PLF,Naissances,Accouchements,naissances,91.16,54.7
+2011,9,PLF,Naissances,Accouchements,naissances,85.46,109.39
+2011,10,PLF,Naissances,Accouchements,naissances,85.46,200.55
+2011,11,PLF,Naissances,Accouchements,naissances,91.16,218.78
+2011,12,PLF,Naissances,Accouchements,naissances,136.74,145.86
+2011,1,CFX,Naissances,Accouchements,naissances,113.95,109.39
+2011,2,CFX,Naissances,Accouchements,naissances,102.56,91.16
+2011,3,CFX,Naissances,Accouchements,naissances,91.16,255.25
+2011,4,CFX,Naissances,Accouchements,naissances,85.46,346.41
+2011,5,CFX,Naissances,Accouchements,naissances,79.77,164.09
+2011,6,CFX,Naissances,Accouchements,naissances,79.77,72.93
+2011,7,CFX,Naissances,Accouchements,naissances,96.86,54.7
+2011,8,CFX,Naissances,Accouchements,naissances,91.16,54.7
+2011,9,CFX,Naissances,Accouchements,naissances,85.46,109.39
+2011,10,CFX,Naissances,Accouchements,naissances,85.46,200.55
+2011,11,CFX,Naissances,Accouchements,naissances,91.16,218.78
+2011,12,CFX,Naissances,Accouchements,naissances,136.74,145.86
+2012,1,PLF,Naissances,Accouchements,naissances,113.95,109.39
+2012,2,PLF,Naissances,Accouchements,naissances,102.56,91.16
+2012,3,PLF,Naissances,Accouchements,naissances,91.16,255.25
+2012,4,PLF,Naissances,Accouchements,naissances,85.46,346.41
+2012,5,PLF,Naissances,Accouchements,naissances,79.77,164.09
+2012,6,PLF,Naissances,Accouchements,naissances,79.77,72.93
+2012,7,PLF,Naissances,Accouchements,naissances,96.86,54.7
+2012,8,PLF,Naissances,Accouchements,naissances,91.16,54.7
+2012,9,PLF,Naissances,Accouchements,naissances,85.46,109.39
+2012,10,PLF,Naissances,Accouchements,naissances,85.46,200.55
+2012,11,PLF,Naissances,Accouchements,naissances,91.16,218.78
+2012,12,PLF,Naissances,Accouchements,naissances,136.74,145.86
+2012,1,CFX,Naissances,Accouchements,naissances,113.95,109.39
+2012,2,CFX,Naissances,Accouchements,naissances,102.56,91.16
+2012,3,CFX,Naissances,Accouchements,naissances,91.16,255.25
+2012,4,CFX,Naissances,Accouchements,naissances,85.46,346.41
+2012,5,CFX,Naissances,Accouchements,naissances,79.77,164.09
+2012,6,CFX,Naissances,Accouchements,naissances,79.77,72.93
+2012,7,CFX,Naissances,Accouchements,naissances,96.86,54.7
+2012,8,CFX,Naissances,Accouchements,naissances,91.16,54.7
+2012,9,CFX,Naissances,Accouchements,naissances,85.46,109.39
+2012,10,CFX,Naissances,Accouchements,naissances,85.46,200.55
+2012,11,CFX,Naissances,Accouchements,naissances,91.16,218.78
+2012,12,CFX,Naissances,Accouchements,naissances,136.74,145.86
+2013,1,PLF,Naissances,Accouchements,naissances,113.95,109.39
+2013,2,PLF,Naissances,Accouchements,naissances,102.56,91.16
+2013,3,PLF,Naissances,Accouchements,naissances,91.16,255.25
+2013,4,PLF,Naissances,Accouchements,naissances,85.46,346.41
+2013,5,PLF,Naissances,Accouchements,naissances,79.77,164.09
+2013,6,PLF,Naissances,Accouchements,naissances,79.77,72.93
+2013,7,PLF,Naissances,Accouchements,naissances,96.86,54.7
+2013,8,PLF,Naissances,Accouchements,naissances,91.16,54.7
+2013,9,PLF,Naissances,Accouchements,naissances,85.46,109.39
+2013,10,PLF,Naissances,Accouchements,naissances,85.46,200.55
+2013,11,PLF,Naissances,Accouchements,naissances,91.16,218.78
+2013,12,PLF,Naissances,Accouchements,naissances,136.74,145.86
+2013,1,CFX,Naissances,Accouchements,naissances,113.95,109.39
+2013,2,CFX,Naissances,Accouchements,naissances,102.56,91.16
+2013,3,CFX,Naissances,Accouchements,naissances,91.16,255.25
+2013,4,CFX,Naissances,Accouchements,naissances,85.46,346.41
+2013,5,CFX,Naissances,Accouchements,naissances,79.77,164.09
+2013,6,CFX,Naissances,Accouchements,naissances,79.77,72.93
+2013,7,CFX,Naissances,Accouchements,naissances,96.86,54.7
+2013,8,CFX,Naissances,Accouchements,naissances,91.16,54.7
+2013,9,CFX,Naissances,Accouchements,naissances,85.46,109.39
+2013,10,CFX,Naissances,Accouchements,naissances,85.46,200.55
+2013,11,CFX,Naissances,Accouchements,naissances,91.16,218.78
+2013,12,CFX,Naissances,Accouchements,naissances,136.74,145.86
+2014,1,PLF,Naissances,Accouchements,naissances,113.95,109.39
+2014,2,PLF,Naissances,Accouchements,naissances,102.56,91.16
+2014,3,PLF,Naissances,Accouchements,naissances,91.16,255.25
+2014,4,PLF,Naissances,Accouchements,naissances,85.46,346.41
+2014,5,PLF,Naissances,Accouchements,naissances,79.77,164.09
+2014,6,PLF,Naissances,Accouchements,naissances,79.77,72.93
+2014,7,PLF,Naissances,Accouchements,naissances,96.86,54.7
+2014,8,PLF,Naissances,Accouchements,naissances,91.16,54.7
+2014,9,PLF,Naissances,Accouchements,naissances,85.46,109.39
+2014,10,PLF,Naissances,Accouchements,naissances,85.46,200.55
+2014,11,PLF,Naissances,Accouchements,naissances,91.16,218.78
+2014,12,PLF,Naissances,Accouchements,naissances,136.74,145.86
+2014,1,CFX,Naissances,Accouchements,naissances,113.95,109.39
+2014,2,CFX,Naissances,Accouchements,naissances,102.56,91.16
+2014,3,CFX,Naissances,Accouchements,naissances,91.16,255.25
+2014,4,CFX,Naissances,Accouchements,naissances,85.46,346.41
+2014,5,CFX,Naissances,Accouchements,naissances,79.77,164.09
+2014,6,CFX,Naissances,Accouchements,naissances,79.77,72.93
+2014,7,CFX,Naissances,Accouchements,naissances,96.86,54.7
+2014,8,CFX,Naissances,Accouchements,naissances,91.16,54.7
+2014,9,CFX,Naissances,Accouchements,naissances,85.46,109.39
+2014,10,CFX,Naissances,Accouchements,naissances,85.46,200.55
+2014,11,CFX,Naissances,Accouchements,naissances,91.16,218.78
+2014,12,CFX,Naissances,Accouchements,naissances,136.74,145.86
+2015,1,PLF,Naissances,Accouchements,naissances,113.95,109.39
+2015,2,PLF,Naissances,Accouchements,naissances,102.56,91.16
+2015,3,PLF,Naissances,Accouchements,naissances,91.16,255.25
+2015,4,PLF,Naissances,Accouchements,naissances,85.46,346.41
+2015,5,PLF,Naissances,Accouchements,naissances,79.77,164.09
+2015,6,PLF,Naissances,Accouchements,naissances,79.77,72.93
+2015,7,PLF,Naissances,Accouchements,naissances,96.86,54.7
+2015,8,PLF,Naissances,Accouchements,naissances,91.16,54.7
+2015,9,PLF,Naissances,Accouchements,naissances,85.46,109.39
+2015,10,PLF,Naissances,Accouchements,naissances,85.46,200.55
+2015,11,PLF,Naissances,Accouchements,naissances,91.16,218.78
+2015,12,PLF,Naissances,Accouchements,naissances,136.74,145.86
+2015,1,CFX,Naissances,Accouchements,naissances,113.95,109.39
+2015,2,CFX,Naissances,Accouchements,naissances,102.56,91.16
+2015,3,CFX,Naissances,Accouchements,naissances,91.16,255.25
+2015,4,CFX,Naissances,Accouchements,naissances,85.46,346.41
+2015,5,CFX,Naissances,Accouchements,naissances,79.77,164.09
+2015,6,CFX,Naissances,Accouchements,naissances,79.77,72.93
+2015,7,CFX,Naissances,Accouchements,naissances,96.86,54.7
+2015,8,CFX,Naissances,Accouchements,naissances,91.16,54.7
+2015,9,CFX,Naissances,Accouchements,naissances,85.46,109.39
+2015,10,CFX,Naissances,Accouchements,naissances,85.46,200.55
+2015,11,CFX,Naissances,Accouchements,naissances,91.16,218.78
+2015,12,CFX,Naissances,Accouchements,naissances,136.74,145.86
+2016,1,PLF,Naissances,Accouchements,naissances,109.3,104.93
+2016,2,PLF,Naissances,Accouchements,naissances,98.37,87.44
+2016,3,PLF,Naissances,Accouchements,naissances,87.44,244.83
+2016,4,PLF,Naissances,Accouchements,naissances,81.97,332.27
+2016,5,PLF,Naissances,Accouchements,naissances,76.51,157.39
+2016,6,PLF,Naissances,Accouchements,naissances,76.51,69.95
+2016,7,PLF,Naissances,Accouchements,naissances,92.91,52.46
+2016,8,PLF,Naissances,Accouchements,naissances,87.44,52.46
+2016,9,PLF,Naissances,Accouchements,naissances,81.97,104.93
+2016,10,PLF,Naissances,Accouchements,naissances,81.97,192.37
+2016,11,PLF,Naissances,Accouchements,naissances,87.44,209.86
+2016,12,PLF,Naissances,Accouchements,naissances,131.16,139.9
+2016,1,CFX,Naissances,Accouchements,naissances,109.3,104.93
+2016,2,CFX,Naissances,Accouchements,naissances,98.37,87.44
+2016,3,CFX,Naissances,Accouchements,naissances,87.44,244.83
+2016,4,CFX,Naissances,Accouchements,naissances,81.97,332.27
+2016,5,CFX,Naissances,Accouchements,naissances,76.51,157.39
+2016,6,CFX,Naissances,Accouchements,naissances,76.51,69.95
+2016,7,CFX,Naissances,Accouchements,naissances,92.91,52.46
+2016,8,CFX,Naissances,Accouchements,naissances,87.44,52.46
+2016,9,CFX,Naissances,Accouchements,naissances,81.97,104.93
+2016,10,CFX,Naissances,Accouchements,naissances,81.97,192.37
+2016,11,CFX,Naissances,Accouchements,naissances,87.44,209.86
+2016,12,CFX,Naissances,Accouchements,naissances,131.16,139.9
+2017,1,PLF,Naissances,Accouchements,naissances,109.3,104.93
+2017,2,PLF,Naissances,Accouchements,naissances,98.37,87.44
+2017,3,PLF,Naissances,Accouchements,naissances,87.44,244.83
+2017,4,PLF,Naissances,Accouchements,naissances,81.97,332.27
+2017,5,PLF,Naissances,Accouchements,naissances,76.51,157.39
+2017,6,PLF,Naissances,Accouchements,naissances,76.51,69.95
+2017,7,PLF,Naissances,Accouchements,naissances,92.91,52.46
+2017,8,PLF,Naissances,Accouchements,naissances,87.44,52.46
+2017,9,PLF,Naissances,Accouchements,naissances,81.97,104.93
+2017,10,PLF,Naissances,Accouchements,naissances,81.97,192.37
+2017,11,PLF,Naissances,Accouchements,naissances,87.44,209.86
+2017,12,PLF,Naissances,Accouchements,naissances,131.16,139.9
+2017,1,CFX,Naissances,Accouchements,naissances,109.3,104.93
+2017,2,CFX,Naissances,Accouchements,naissances,98.37,87.44
+2017,3,CFX,Naissances,Accouchements,naissances,87.44,244.83
+2017,4,CFX,Naissances,Accouchements,naissances,81.97,332.27
+2017,5,CFX,Naissances,Accouchements,naissances,76.51,157.39
+2017,6,CFX,Naissances,Accouchements,naissances,76.51,69.95
+2017,7,CFX,Naissances,Accouchements,naissances,92.91,52.46
+2017,8,CFX,Naissances,Accouchements,naissances,87.44,52.46
+2017,9,CFX,Naissances,Accouchements,naissances,81.97,104.93
+2017,10,CFX,Naissances,Accouchements,naissances,81.97,192.37
+2017,11,CFX,Naissances,Accouchements,naissances,87.44,209.86
+2017,12,CFX,Naissances,Accouchements,naissances,131.16,139.9
+2011,1,PLF,Naissances,Naissances,naissances,122.85,117.94
+2011,2,PLF,Naissances,Naissances,naissances,110.56,98.28
+2011,3,PLF,Naissances,Naissances,naissances,98.28,275.18
+2011,4,PLF,Naissances,Naissances,naissances,92.14,373.46
+2011,5,PLF,Naissances,Naissances,naissances,86.0,176.9
+2011,6,PLF,Naissances,Naissances,naissances,86.0,78.62
+2011,7,PLF,Naissances,Naissances,naissances,104.42,58.97
+2011,8,PLF,Naissances,Naissances,naissances,98.28,58.97
+2011,9,PLF,Naissances,Naissances,naissances,92.14,117.94
+2011,10,PLF,Naissances,Naissances,naissances,92.14,216.22
+2011,11,PLF,Naissances,Naissances,naissances,98.28,235.87
+2011,12,PLF,Naissances,Naissances,naissances,147.42,157.25
+2011,1,CFX,Naissances,Naissances,naissances,122.85,117.94
+2011,2,CFX,Naissances,Naissances,naissances,110.56,98.28
+2011,3,CFX,Naissances,Naissances,naissances,98.28,275.18
+2011,4,CFX,Naissances,Naissances,naissances,92.14,373.46
+2011,5,CFX,Naissances,Naissances,naissances,86.0,176.9
+2011,6,CFX,Naissances,Naissances,naissances,86.0,78.62
+2011,7,CFX,Naissances,Naissances,naissances,104.42,58.97
+2011,8,CFX,Naissances,Naissances,naissances,98.28,58.97
+2011,9,CFX,Naissances,Naissances,naissances,92.14,117.94
+2011,10,CFX,Naissances,Naissances,naissances,92.14,216.22
+2011,11,CFX,Naissances,Naissances,naissances,98.28,235.87
+2011,12,CFX,Naissances,Naissances,naissances,147.42,157.25
+2012,1,PLF,Naissances,Naissances,naissances,122.85,117.94
+2012,2,PLF,Naissances,Naissances,naissances,110.56,98.28
+2012,3,PLF,Naissances,Naissances,naissances,98.28,275.18
+2012,4,PLF,Naissances,Naissances,naissances,92.14,373.46
+2012,5,PLF,Naissances,Naissances,naissances,86.0,176.9
+2012,6,PLF,Naissances,Naissances,naissances,86.0,78.62
+2012,7,PLF,Naissances,Naissances,naissances,104.42,58.97
+2012,8,PLF,Naissances,Naissances,naissances,98.28,58.97
+2012,9,PLF,Naissances,Naissances,naissances,92.14,117.94
+2012,10,PLF,Naissances,Naissances,naissances,92.14,216.22
+2012,11,PLF,Naissances,Naissances,naissances,98.28,235.87
+2012,12,PLF,Naissances,Naissances,naissances,147.42,157.25
+2012,1,CFX,Naissances,Naissances,naissances,122.85,117.94
+2012,2,CFX,Naissances,Naissances,naissances,110.56,98.28
+2012,3,CFX,Naissances,Naissances,naissances,98.28,275.18
+2012,4,CFX,Naissances,Naissances,naissances,92.14,373.46
+2012,5,CFX,Naissances,Naissances,naissances,86.0,176.9
+2012,6,CFX,Naissances,Naissances,naissances,86.0,78.62
+2012,7,CFX,Naissances,Naissances,naissances,104.42,58.97
+2012,8,CFX,Naissances,Naissances,naissances,98.28,58.97
+2012,9,CFX,Naissances,Naissances,naissances,92.14,117.94
+2012,10,CFX,Naissances,Naissances,naissances,92.14,216.22
+2012,11,CFX,Naissances,Naissances,naissances,98.28,235.87
+2012,12,CFX,Naissances,Naissances,naissances,147.42,157.25
+2013,1,PLF,Naissances,Naissances,naissances,122.85,117.94
+2013,2,PLF,Naissances,Naissances,naissances,110.56,98.28
+2013,3,PLF,Naissances,Naissances,naissances,98.28,275.18
+2013,4,PLF,Naissances,Naissances,naissances,92.14,373.46
+2013,5,PLF,Naissances,Naissances,naissances,86.0,176.9
+2013,6,PLF,Naissances,Naissances,naissances,86.0,78.62
+2013,7,PLF,Naissances,Naissances,naissances,104.42,58.97
+2013,8,PLF,Naissances,Naissances,naissances,98.28,58.97
+2013,9,PLF,Naissances,Naissances,naissances,92.14,117.94
+2013,10,PLF,Naissances,Naissances,naissances,92.14,216.22
+2013,11,PLF,Naissances,Naissances,naissances,98.28,235.87
+2013,12,PLF,Naissances,Naissances,naissances,147.42,157.25
+2013,1,CFX,Naissances,Naissances,naissances,122.85,117.94
+2013,2,CFX,Naissances,Naissances,naissances,110.56,98.28
+2013,3,CFX,Naissances,Naissances,naissances,98.28,275.18
+2013,4,CFX,Naissances,Naissances,naissances,92.14,373.46
+2013,5,CFX,Naissances,Naissances,naissances,86.0,176.9
+2013,6,CFX,Naissances,Naissances,naissances,86.0,78.62
+2013,7,CFX,Naissances,Naissances,naissances,104.42,58.97
+2013,8,CFX,Naissances,Naissances,naissances,98.28,58.97
+2013,9,CFX,Naissances,Naissances,naissances,92.14,117.94
+2013,10,CFX,Naissances,Naissances,naissances,92.14,216.22
+2013,11,CFX,Naissances,Naissances,naissances,98.28,235.87
+2013,12,CFX,Naissances,Naissances,naissances,147.42,157.25
+2014,1,PLF,Naissances,Naissances,naissances,122.85,117.94
+2014,2,PLF,Naissances,Naissances,naissances,110.56,98.28
+2014,3,PLF,Naissances,Naissances,naissances,98.28,275.18
+2014,4,PLF,Naissances,Naissances,naissances,92.14,373.46
+2014,5,PLF,Naissances,Naissances,naissances,86.0,176.9
+2014,6,PLF,Naissances,Naissances,naissances,86.0,78.62
+2014,7,PLF,Naissances,Naissances,naissances,104.42,58.97
+2014,8,PLF,Naissances,Naissances,naissances,98.28,58.97
+2014,9,PLF,Naissances,Naissances,naissances,92.14,117.94
+2014,10,PLF,Naissances,Naissances,naissances,92.14,216.22
+2014,11,PLF,Naissances,Naissances,naissances,98.28,235.87
+2014,12,PLF,Naissances,Naissances,naissances,147.42,157.25
+2014,1,CFX,Naissances,Naissances,naissances,122.85,117.94
+2014,2,CFX,Naissances,Naissances,naissances,110.56,98.28
+2014,3,CFX,Naissances,Naissances,naissances,98.28,275.18
+2014,4,CFX,Naissances,Naissances,naissances,92.14,373.46
+2014,5,CFX,Naissances,Naissances,naissances,86.0,176.9
+2014,6,CFX,Naissances,Naissances,naissances,86.0,78.62
+2014,7,CFX,Naissances,Naissances,naissances,104.42,58.97
+2014,8,CFX,Naissances,Naissances,naissances,98.28,58.97
+2014,9,CFX,Naissances,Naissances,naissances,92.14,117.94
+2014,10,CFX,Naissances,Naissances,naissances,92.14,216.22
+2014,11,CFX,Naissances,Naissances,naissances,98.28,235.87
+2014,12,CFX,Naissances,Naissances,naissances,147.42,157.25
+2015,1,PLF,Naissances,Naissances,naissances,122.85,117.94
+2015,2,PLF,Naissances,Naissances,naissances,110.56,98.28
+2015,3,PLF,Naissances,Naissances,naissances,98.28,275.18
+2015,4,PLF,Naissances,Naissances,naissances,92.14,373.46
+2015,5,PLF,Naissances,Naissances,naissances,86.0,176.9
+2015,6,PLF,Naissances,Naissances,naissances,86.0,78.62
+2015,7,PLF,Naissances,Naissances,naissances,104.42,58.97
+2015,8,PLF,Naissances,Naissances,naissances,98.28,58.97
+2015,9,PLF,Naissances,Naissances,naissances,92.14,117.94
+2015,10,PLF,Naissances,Naissances,naissances,92.14,216.22
+2015,11,PLF,Naissances,Naissances,naissances,98.28,235.87
+2015,12,PLF,Naissances,Naissances,naissances,147.42,157.25
+2015,1,CFX,Naissances,Naissances,naissances,122.85,117.94
+2015,2,CFX,Naissances,Naissances,naissances,110.56,98.28
+2015,3,CFX,Naissances,Naissances,naissances,98.28,275.18
+2015,4,CFX,Naissances,Naissances,naissances,92.14,373.46
+2015,5,CFX,Naissances,Naissances,naissances,86.0,176.9
+2015,6,CFX,Naissances,Naissances,naissances,86.0,78.62
+2015,7,CFX,Naissances,Naissances,naissances,104.42,58.97
+2015,8,CFX,Naissances,Naissances,naissances,98.28,58.97
+2015,9,CFX,Naissances,Naissances,naissances,92.14,117.94
+2015,10,CFX,Naissances,Naissances,naissances,92.14,216.22
+2015,11,CFX,Naissances,Naissances,naissances,98.28,235.87
+2015,12,CFX,Naissances,Naissances,naissances,147.42,157.25
+2016,1,PLF,Naissances,Naissances,naissances,122.85,117.94
+2016,2,PLF,Naissances,Naissances,naissances,110.56,98.28
+2016,3,PLF,Naissances,Naissances,naissances,98.28,275.18
+2016,4,PLF,Naissances,Naissances,naissances,92.14,373.46
+2016,5,PLF,Naissances,Naissances,naissances,86.0,176.9
+2016,6,PLF,Naissances,Naissances,naissances,86.0,78.62
+2016,7,PLF,Naissances,Naissances,naissances,104.42,58.97
+2016,8,PLF,Naissances,Naissances,naissances,98.28,58.97
+2016,9,PLF,Naissances,Naissances,naissances,92.14,117.94
+2016,10,PLF,Naissances,Naissances,naissances,92.14,216.22
+2016,11,PLF,Naissances,Naissances,naissances,98.28,235.87
+2016,12,PLF,Naissances,Naissances,naissances,147.42,157.25
+2016,1,CFX,Naissances,Naissances,naissances,122.85,117.94
+2016,2,CFX,Naissances,Naissances,naissances,110.56,98.28
+2016,3,CFX,Naissances,Naissances,naissances,98.28,275.18
+2016,4,CFX,Naissances,Naissances,naissances,92.14,373.46
+2016,5,CFX,Naissances,Naissances,naissances,86.0,176.9
+2016,6,CFX,Naissances,Naissances,naissances,86.0,78.62
+2016,7,CFX,Naissances,Naissances,naissances,104.42,58.97
+2016,8,CFX,Naissances,Naissances,naissances,98.28,58.97
+2016,9,CFX,Naissances,Naissances,naissances,92.14,117.94
+2016,10,CFX,Naissances,Naissances,naissances,92.14,216.22
+2016,11,CFX,Naissances,Naissances,naissances,98.28,235.87
+2016,12,CFX,Naissances,Naissances,naissances,147.42,157.25
+2017,1,PLF,Naissances,Naissances,naissances,122.85,117.94
+2017,2,PLF,Naissances,Naissances,naissances,110.56,98.28
+2017,3,PLF,Naissances,Naissances,naissances,98.28,275.18
+2017,4,PLF,Naissances,Naissances,naissances,92.14,373.46
+2017,5,PLF,Naissances,Naissances,naissances,86.0,176.9
+2017,6,PLF,Naissances,Naissances,naissances,86.0,78.62
+2017,7,PLF,Naissances,Naissances,naissances,104.42,58.97
+2017,8,PLF,Naissances,Naissances,naissances,98.28,58.97
+2017,9,PLF,Naissances,Naissances,naissances,92.14,117.94
+2017,10,PLF,Naissances,Naissances,naissances,92.14,216.22
+2017,11,PLF,Naissances,Naissances,naissances,98.28,235.87
+2017,12,PLF,Naissances,Naissances,naissances,147.42,157.25
+2017,1,CFX,Naissances,Naissances,naissances,122.85,117.94
+2017,2,CFX,Naissances,Naissances,naissances,110.56,98.28
+2017,3,CFX,Naissances,Naissances,naissances,98.28,275.18
+2017,4,CFX,Naissances,Naissances,naissances,92.14,373.46
+2017,5,CFX,Naissances,Naissances,naissances,86.0,176.9
+2017,6,CFX,Naissances,Naissances,naissances,86.0,78.62
+2017,7,CFX,Naissances,Naissances,naissances,104.42,58.97
+2017,8,CFX,Naissances,Naissances,naissances,98.28,58.97
+2017,9,CFX,Naissances,Naissances,naissances,92.14,117.94
+2017,10,CFX,Naissances,Naissances,naissances,92.14,216.22
+2017,11,CFX,Naissances,Naissances,naissances,98.28,235.87
+2017,12,CFX,Naissances,Naissances,naissances,147.42,157.25
+2011,1,PLF,Séjours,Ambulatoire (<24h),séjours,8652.9,8306.78
+2011,2,PLF,Séjours,Ambulatoire (<24h),séjours,7787.61,6922.32
+2011,3,PLF,Séjours,Ambulatoire (<24h),séjours,6922.32,19382.5
+2011,4,PLF,Séjours,Ambulatoire (<24h),séjours,6489.68,26304.82
+2011,5,PLF,Séjours,Ambulatoire (<24h),séjours,6057.03,12460.18
+2011,6,PLF,Séjours,Ambulatoire (<24h),séjours,6057.03,5537.86
+2011,7,PLF,Séjours,Ambulatoire (<24h),séjours,7354.97,4153.39
+2011,8,PLF,Séjours,Ambulatoire (<24h),séjours,6922.32,4153.39
+2011,9,PLF,Séjours,Ambulatoire (<24h),séjours,6489.68,8306.78
+2011,10,PLF,Séjours,Ambulatoire (<24h),séjours,6489.68,15229.1
+2011,11,PLF,Séjours,Ambulatoire (<24h),séjours,6922.32,16613.57
+2011,12,PLF,Séjours,Ambulatoire (<24h),séjours,10383.48,11075.71
+2011,1,CFX,Séjours,Ambulatoire (<24h),séjours,118.4,113.66
+2011,2,CFX,Séjours,Ambulatoire (<24h),séjours,106.56,94.72
+2011,3,CFX,Séjours,Ambulatoire (<24h),séjours,94.72,265.22
+2011,4,CFX,Séjours,Ambulatoire (<24h),séjours,88.8,359.94
+2011,5,CFX,Séjours,Ambulatoire (<24h),séjours,82.88,170.5
+2011,6,CFX,Séjours,Ambulatoire (<24h),séjours,82.88,75.78
+2011,7,CFX,Séjours,Ambulatoire (<24h),séjours,100.64,56.83
+2011,8,CFX,Séjours,Ambulatoire (<24h),séjours,94.72,56.83
+2011,9,CFX,Séjours,Ambulatoire (<24h),séjours,88.8,113.66
+2011,10,CFX,Séjours,Ambulatoire (<24h),séjours,88.8,208.38
+2011,11,CFX,Séjours,Ambulatoire (<24h),séjours,94.72,227.33
+2011,12,CFX,Séjours,Ambulatoire (<24h),séjours,142.08,151.55
+2012,1,PLF,Séjours,Ambulatoire (<24h),séjours,8652.9,8306.78
+2012,2,PLF,Séjours,Ambulatoire (<24h),séjours,7787.61,6922.32
+2012,3,PLF,Séjours,Ambulatoire (<24h),séjours,6922.32,19382.5
+2012,4,PLF,Séjours,Ambulatoire (<24h),séjours,6489.68,26304.82
+2012,5,PLF,Séjours,Ambulatoire (<24h),séjours,6057.03,12460.18
+2012,6,PLF,Séjours,Ambulatoire (<24h),séjours,6057.03,5537.86
+2012,7,PLF,Séjours,Ambulatoire (<24h),séjours,7354.97,4153.39
+2012,8,PLF,Séjours,Ambulatoire (<24h),séjours,6922.32,4153.39
+2012,9,PLF,Séjours,Ambulatoire (<24h),séjours,6489.68,8306.78
+2012,10,PLF,Séjours,Ambulatoire (<24h),séjours,6489.68,15229.1
+2012,11,PLF,Séjours,Ambulatoire (<24h),séjours,6922.32,16613.57
+2012,12,PLF,Séjours,Ambulatoire (<24h),séjours,10383.48,11075.71
+2012,1,CFX,Séjours,Ambulatoire (<24h),séjours,118.4,113.66
+2012,2,CFX,Séjours,Ambulatoire (<24h),séjours,106.56,94.72
+2012,3,CFX,Séjours,Ambulatoire (<24h),séjours,94.72,265.22
+2012,4,CFX,Séjours,Ambulatoire (<24h),séjours,88.8,359.94
+2012,5,CFX,Séjours,Ambulatoire (<24h),séjours,82.88,170.5
+2012,6,CFX,Séjours,Ambulatoire (<24h),séjours,82.88,75.78
+2012,7,CFX,Séjours,Ambulatoire (<24h),séjours,100.64,56.83
+2012,8,CFX,Séjours,Ambulatoire (<24h),séjours,94.72,56.83
+2012,9,CFX,Séjours,Ambulatoire (<24h),séjours,88.8,113.66
+2012,10,CFX,Séjours,Ambulatoire (<24h),séjours,88.8,208.38
+2012,11,CFX,Séjours,Ambulatoire (<24h),séjours,94.72,227.33
+2012,12,CFX,Séjours,Ambulatoire (<24h),séjours,142.08,151.55
+2013,1,PLF,Séjours,Ambulatoire (<24h),séjours,8887.2,8531.71
+2013,2,PLF,Séjours,Ambulatoire (<24h),séjours,7998.48,7109.76
+2013,3,PLF,Séjours,Ambulatoire (<24h),séjours,7109.76,19907.33
+2013,4,PLF,Séjours,Ambulatoire (<24h),séjours,6665.4,27017.09
+2013,5,PLF,Séjours,Ambulatoire (<24h),séjours,6221.04,12797.57
+2013,6,PLF,Séjours,Ambulatoire (<24h),séjours,6221.04,5687.81
+2013,7,PLF,Séjours,Ambulatoire (<24h),séjours,7554.12,4265.86
+2013,8,PLF,Séjours,Ambulatoire (<24h),séjours,7109.76,4265.86
+2013,9,PLF,Séjours,Ambulatoire (<24h),séjours,6665.4,8531.71
+2013,10,PLF,Séjours,Ambulatoire (<24h),séjours,6665.4,15641.47
+2013,11,PLF,Séjours,Ambulatoire (<24h),séjours,7109.76,17063.42
+2013,12,PLF,Séjours,Ambulatoire (<24h),séjours,10664.64,11375.62
+2013,1,CFX,Séjours,Ambulatoire (<24h),séjours,132.73,127.42
+2013,2,CFX,Séjours,Ambulatoire (<24h),séjours,119.46,106.19
+2013,3,CFX,Séjours,Ambulatoire (<24h),séjours,106.19,297.32
+2013,4,CFX,Séjours,Ambulatoire (<24h),séjours,99.55,403.51
+2013,5,CFX,Séjours,Ambulatoire (<24h),séjours,92.91,191.14
+2013,6,CFX,Séjours,Ambulatoire (<24h),séjours,92.91,84.95
+2013,7,CFX,Séjours,Ambulatoire (<24h),séjours,112.82,63.71
+2013,8,CFX,Séjours,Ambulatoire (<24h),séjours,106.19,63.71
+2013,9,CFX,Séjours,Ambulatoire (<24h),séjours,99.55,127.42
+2013,10,CFX,Séjours,Ambulatoire (<24h),séjours,99.55,233.61
+2013,11,CFX,Séjours,Ambulatoire (<24h),séjours,106.19,254.85
+2013,12,CFX,Séjours,Ambulatoire (<24h),séjours,159.28,169.9
+2014,1,PLF,Séjours,Ambulatoire (<24h),séjours,9121.5,8756.64
+2014,2,PLF,Séjours,Ambulatoire (<24h),séjours,8209.35,7297.2
+2014,3,PLF,Séjours,Ambulatoire (<24h),séjours,7297.2,20432.16
+2014,4,PLF,Séjours,Ambulatoire (<24h),séjours,6841.12,27729.36
+2014,5,PLF,Séjours,Ambulatoire (<24h),séjours,6385.05,13134.96
+2014,6,PLF,Séjours,Ambulatoire (<24h),séjours,6385.05,5837.76
+2014,7,PLF,Séjours,Ambulatoire (<24h),séjours,7753.27,4378.32
+2014,8,PLF,Séjours,Ambulatoire (<24h),séjours,7297.2,4378.32
+2014,9,PLF,Séjours,Ambulatoire (<24h),séjours,6841.12,8756.64
+2014,10,PLF,Séjours,Ambulatoire (<24h),séjours,6841.12,16053.84
+2014,11,PLF,Séjours,Ambulatoire (<24h),séjours,7297.2,17513.28
+2014,12,PLF,Séjours,Ambulatoire (<24h),séjours,10945.8,11675.52
+2014,1,CFX,Séjours,Ambulatoire (<24h),séjours,147.07,141.18
+2014,2,CFX,Séjours,Ambulatoire (<24h),séjours,132.36,117.65
+2014,3,CFX,Séjours,Ambulatoire (<24h),séjours,117.65,329.43
+2014,4,CFX,Séjours,Ambulatoire (<24h),séjours,110.3,447.08
+2014,5,CFX,Séjours,Ambulatoire (<24h),séjours,102.95,211.78
+2014,6,CFX,Séjours,Ambulatoire (<24h),séjours,102.95,94.12
+2014,7,CFX,Séjours,Ambulatoire (<24h),séjours,125.01,70.59
+2014,8,CFX,Séjours,Ambulatoire (<24h),séjours,117.65,70.59
+2014,9,CFX,Séjours,Ambulatoire (<24h),séjours,110.3,141.18
+2014,10,CFX,Séjours,Ambulatoire (<24h),séjours,110.3,258.84
+2014,11,CFX,Séjours,Ambulatoire (<24h),séjours,117.65,282.37
+2014,12,CFX,Séjours,Ambulatoire (<24h),séjours,176.48,188.25
+2015,1,PLF,Séjours,Ambulatoire (<24h),séjours,9355.8,8981.57
+2015,2,PLF,Séjours,Ambulatoire (<24h),séjours,8420.22,7484.64
+2015,3,PLF,Séjours,Ambulatoire (<24h),séjours,7484.64,20956.99
+2015,4,PLF,Séjours,Ambulatoire (<24h),séjours,7016.85,28441.63
+2015,5,PLF,Séjours,Ambulatoire (<24h),séjours,6549.06,13472.35
+2015,6,PLF,Séjours,Ambulatoire (<24h),séjours,6549.06,5987.71
+2015,7,PLF,Séjours,Ambulatoire (<24h),séjours,7952.43,4490.78
+2015,8,PLF,Séjours,Ambulatoire (<24h),séjours,7484.64,4490.78
+2015,9,PLF,Séjours,Ambulatoire (<24h),séjours,7016.85,8981.57
+2015,10,PLF,Séjours,Ambulatoire (<24h),séjours,7016.85,16466.21
+2015,11,PLF,Séjours,Ambulatoire (<24h),séjours,7484.64,17963.14
+2015,12,PLF,Séjours,Ambulatoire (<24h),séjours,11226.96,11975.42
+2015,1,CFX,Séjours,Ambulatoire (<24h),séjours,161.4,154.94
+2015,2,CFX,Séjours,Ambulatoire (<24h),séjours,145.26,129.12
+2015,3,CFX,Séjours,Ambulatoire (<24h),séjours,129.12,361.54
+2015,4,CFX,Séjours,Ambulatoire (<24h),séjours,121.05,490.66
+2015,5,CFX,Séjours,Ambulatoire (<24h),séjours,112.98,232.42
+2015,6,CFX,Séjours,Ambulatoire (<24h),séjours,112.98,103.3
+2015,7,CFX,Séjours,Ambulatoire (<24h),séjours,137.19,77.47
+2015,8,CFX,Séjours,Ambulatoire (<24h),séjours,129.12,77.47
+2015,9,CFX,Séjours,Ambulatoire (<24h),séjours,121.05,154.94
+2015,10,CFX,Séjours,Ambulatoire (<24h),séjours,121.05,284.06
+2015,11,CFX,Séjours,Ambulatoire (<24h),séjours,129.12,309.89
+2015,12,CFX,Séjours,Ambulatoire (<24h),séjours,193.68,206.59
+2016,1,PLF,Séjours,Ambulatoire (<24h),séjours,9879.13,9483.96
+2016,2,PLF,Séjours,Ambulatoire (<24h),séjours,8891.22,7903.3
+2016,3,PLF,Séjours,Ambulatoire (<24h),séjours,7903.3,22129.25
+2016,4,PLF,Séjours,Ambulatoire (<24h),séjours,7409.35,30032.55
+2016,5,PLF,Séjours,Ambulatoire (<24h),séjours,6915.39,14225.94
+2016,6,PLF,Séjours,Ambulatoire (<24h),séjours,6915.39,6322.64
+2016,7,PLF,Séjours,Ambulatoire (<24h),séjours,8397.26,4741.98
+2016,8,PLF,Séjours,Ambulatoire (<24h),séjours,7903.3,4741.98
+2016,9,PLF,Séjours,Ambulatoire (<24h),séjours,7409.35,9483.96
+2016,10,PLF,Séjours,Ambulatoire (<24h),séjours,7409.35,17387.27
+2016,11,PLF,Séjours,Ambulatoire (<24h),séjours,7903.3,18967.93
+2016,12,PLF,Séjours,Ambulatoire (<24h),séjours,11854.95,12645.28
+2016,1,CFX,Séjours,Ambulatoire (<24h),séjours,152.77,146.66
+2016,2,CFX,Séjours,Ambulatoire (<24h),séjours,137.49,122.22
+2016,3,CFX,Séjours,Ambulatoire (<24h),séjours,122.22,342.21
+2016,4,CFX,Séjours,Ambulatoire (<24h),séjours,114.58,464.43
+2016,5,CFX,Séjours,Ambulatoire (<24h),séjours,106.94,219.99
+2016,6,CFX,Séjours,Ambulatoire (<24h),séjours,106.94,97.77
+2016,7,CFX,Séjours,Ambulatoire (<24h),séjours,129.86,73.33
+2016,8,CFX,Séjours,Ambulatoire (<24h),séjours,122.22,73.33
+2016,9,CFX,Séjours,Ambulatoire (<24h),séjours,114.58,146.66
+2016,10,CFX,Séjours,Ambulatoire (<24h),séjours,114.58,268.88
+2016,11,CFX,Séjours,Ambulatoire (<24h),séjours,122.22,293.32
+2016,12,CFX,Séjours,Ambulatoire (<24h),séjours,183.33,195.55
+2017,1,PLF,Séjours,Ambulatoire (<24h),séjours,9879.13,9483.96
+2017,2,PLF,Séjours,Ambulatoire (<24h),séjours,8891.22,7903.3
+2017,3,PLF,Séjours,Ambulatoire (<24h),séjours,7903.3,22129.25
+2017,4,PLF,Séjours,Ambulatoire (<24h),séjours,7409.35,30032.55
+2017,5,PLF,Séjours,Ambulatoire (<24h),séjours,6915.39,14225.94
+2017,6,PLF,Séjours,Ambulatoire (<24h),séjours,6915.39,6322.64
+2017,7,PLF,Séjours,Ambulatoire (<24h),séjours,8397.26,4741.98
+2017,8,PLF,Séjours,Ambulatoire (<24h),séjours,7903.3,4741.98
+2017,9,PLF,Séjours,Ambulatoire (<24h),séjours,7409.35,9483.96
+2017,10,PLF,Séjours,Ambulatoire (<24h),séjours,7409.35,17387.27
+2017,11,PLF,Séjours,Ambulatoire (<24h),séjours,7903.3,18967.93
+2017,12,PLF,Séjours,Ambulatoire (<24h),séjours,11854.95,12645.28
+2017,1,CFX,Séjours,Ambulatoire (<24h),séjours,152.77,146.66
+2017,2,CFX,Séjours,Ambulatoire (<24h),séjours,137.49,122.22
+2017,3,CFX,Séjours,Ambulatoire (<24h),séjours,122.22,342.21
+2017,4,CFX,Séjours,Ambulatoire (<24h),séjours,114.58,464.43
+2017,5,CFX,Séjours,Ambulatoire (<24h),séjours,106.94,219.99
+2017,6,CFX,Séjours,Ambulatoire (<24h),séjours,106.94,97.77
+2017,7,CFX,Séjours,Ambulatoire (<24h),séjours,129.86,73.33
+2017,8,CFX,Séjours,Ambulatoire (<24h),séjours,122.22,73.33
+2017,9,CFX,Séjours,Ambulatoire (<24h),séjours,114.58,146.66
+2017,10,CFX,Séjours,Ambulatoire (<24h),séjours,114.58,268.88
+2017,11,CFX,Séjours,Ambulatoire (<24h),séjours,122.22,293.32
+2017,12,CFX,Séjours,Ambulatoire (<24h),séjours,183.33,195.55
+2011,1,PLF,Séjours,Hospitalisation complète (>24h),séjours,6469.3,6210.53
+2011,2,PLF,Séjours,Hospitalisation complète (>24h),séjours,5822.37,5175.44
+2011,3,PLF,Séjours,Hospitalisation complète (>24h),séjours,5175.44,14491.23
+2011,4,PLF,Séjours,Hospitalisation complète (>24h),séjours,4851.98,19666.67
+2011,5,PLF,Séjours,Hospitalisation complète (>24h),séjours,4528.51,9315.79
+2011,6,PLF,Séjours,Hospitalisation complète (>24h),séjours,4528.51,4140.35
+2011,7,PLF,Séjours,Hospitalisation complète (>24h),séjours,5498.9,3105.26
+2011,8,PLF,Séjours,Hospitalisation complète (>24h),séjours,5175.44,3105.26
+2011,9,PLF,Séjours,Hospitalisation complète (>24h),séjours,4851.98,6210.53
+2011,10,PLF,Séjours,Hospitalisation complète (>24h),séjours,4851.98,11385.97
+2011,11,PLF,Séjours,Hospitalisation complète (>24h),séjours,5175.44,12421.06
+2011,12,PLF,Séjours,Hospitalisation complète (>24h),séjours,7763.16,8280.7
+2011,1,CFX,Séjours,Hospitalisation complète (>24h),séjours,349.4,335.42
+2011,2,CFX,Séjours,Hospitalisation complète (>24h),séjours,314.46,279.52
+2011,3,CFX,Séjours,Hospitalisation complète (>24h),séjours,279.52,782.66
+2011,4,CFX,Séjours,Hospitalisation complète (>24h),séjours,262.05,1062.18
+2011,5,CFX,Séjours,Hospitalisation complète (>24h),séjours,244.58,503.14
+2011,6,CFX,Séjours,Hospitalisation complète (>24h),séjours,244.58,223.62
+2011,7,CFX,Séjours,Hospitalisation complète (>24h),séjours,296.99,167.71
+2011,8,CFX,Séjours,Hospitalisation complète (>24h),séjours,279.52,167.71
+2011,9,CFX,Séjours,Hospitalisation complète (>24h),séjours,262.05,335.42
+2011,10,CFX,Séjours,Hospitalisation complète (>24h),séjours,262.05,614.94
+2011,11,CFX,Séjours,Hospitalisation complète (>24h),séjours,279.52,670.85
+2011,12,CFX,Séjours,Hospitalisation complète (>24h),séjours,419.28,447.23
+2012,1,PLF,Séjours,Hospitalisation complète (>24h),séjours,6469.3,6210.53
+2012,2,PLF,Séjours,Hospitalisation complète (>24h),séjours,5822.37,5175.44
+2012,3,PLF,Séjours,Hospitalisation complète (>24h),séjours,5175.44,14491.23
+2012,4,PLF,Séjours,Hospitalisation complète (>24h),séjours,4851.98,19666.67
+2012,5,PLF,Séjours,Hospitalisation complète (>24h),séjours,4528.51,9315.79
+2012,6,PLF,Séjours,Hospitalisation complète (>24h),séjours,4528.51,4140.35
+2012,7,PLF,Séjours,Hospitalisation complète (>24h),séjours,5498.9,3105.26
+2012,8,PLF,Séjours,Hospitalisation complète (>24h),séjours,5175.44,3105.26
+2012,9,PLF,Séjours,Hospitalisation complète (>24h),séjours,4851.98,6210.53
+2012,10,PLF,Séjours,Hospitalisation complète (>24h),séjours,4851.98,11385.97
+2012,11,PLF,Séjours,Hospitalisation complète (>24h),séjours,5175.44,12421.06
+2012,12,PLF,Séjours,Hospitalisation complète (>24h),séjours,7763.16,8280.7
+2012,1,CFX,Séjours,Hospitalisation complète (>24h),séjours,349.4,335.42
+2012,2,CFX,Séjours,Hospitalisation complète (>24h),séjours,314.46,279.52
+2012,3,CFX,Séjours,Hospitalisation complète (>24h),séjours,279.52,782.66
+2012,4,CFX,Séjours,Hospitalisation complète (>24h),séjours,262.05,1062.18
+2012,5,CFX,Séjours,Hospitalisation complète (>24h),séjours,244.58,503.14
+2012,6,CFX,Séjours,Hospitalisation complète (>24h),séjours,244.58,223.62
+2012,7,CFX,Séjours,Hospitalisation complète (>24h),séjours,296.99,167.71
+2012,8,CFX,Séjours,Hospitalisation complète (>24h),séjours,279.52,167.71
+2012,9,CFX,Séjours,Hospitalisation complète (>24h),séjours,262.05,335.42
+2012,10,CFX,Séjours,Hospitalisation complète (>24h),séjours,262.05,614.94
+2012,11,CFX,Séjours,Hospitalisation complète (>24h),séjours,279.52,670.85
+2012,12,CFX,Séjours,Hospitalisation complète (>24h),séjours,419.28,447.23
+2013,1,PLF,Séjours,Hospitalisation complète (>24h),séjours,6597.3,6333.41
+2013,2,PLF,Séjours,Hospitalisation complète (>24h),séjours,5937.57,5277.84
+2013,3,PLF,Séjours,Hospitalisation complète (>24h),séjours,5277.84,14777.95
+2013,4,PLF,Séjours,Hospitalisation complète (>24h),séjours,4947.98,20055.79
+2013,5,PLF,Séjours,Hospitalisation complète (>24h),séjours,4618.11,9500.11
+2013,6,PLF,Séjours,Hospitalisation complète (>24h),séjours,4618.11,4222.27
+2013,7,PLF,Séjours,Hospitalisation complète (>24h),séjours,5607.7,3166.7
+2013,8,PLF,Séjours,Hospitalisation complète (>24h),séjours,5277.84,3166.7
+2013,9,PLF,Séjours,Hospitalisation complète (>24h),séjours,4947.98,6333.41
+2013,10,PLF,Séjours,Hospitalisation complète (>24h),séjours,4947.98,11611.25
+2013,11,PLF,Séjours,Hospitalisation complète (>24h),séjours,5277.84,12666.82
+2013,12,PLF,Séjours,Hospitalisation complète (>24h),séjours,7916.76,8444.54
+2013,1,CFX,Séjours,Hospitalisation complète (>24h),séjours,389.23,373.66
+2013,2,CFX,Séjours,Hospitalisation complète (>24h),séjours,350.31,311.39
+2013,3,CFX,Séjours,Hospitalisation complète (>24h),séjours,311.39,871.88
+2013,4,CFX,Séjours,Hospitalisation complète (>24h),séjours,291.92,1183.27
+2013,5,CFX,Séjours,Hospitalisation complète (>24h),séjours,272.46,560.5
+2013,6,CFX,Séjours,Hospitalisation complète (>24h),séjours,272.46,249.11
+2013,7,CFX,Séjours,Hospitalisation complète (>24h),séjours,330.85,186.83
+2013,8,CFX,Séjours,Hospitalisation complète (>24h),séjours,311.39,186.83
+2013,9,CFX,Séjours,Hospitalisation complète (>24h),séjours,291.92,373.66
+2013,10,CFX,Séjours,Hospitalisation complète (>24h),séjours,291.92,685.05
+2013,11,CFX,Séjours,Hospitalisation complète (>24h),séjours,311.39,747.33
+2013,12,CFX,Séjours,Hospitalisation complète (>24h),séjours,467.08,498.22
+2014,1,PLF,Séjours,Hospitalisation complète (>24h),séjours,6725.3,6456.29
+2014,2,PLF,Séjours,Hospitalisation complète (>24h),séjours,6052.77,5380.24
+2014,3,PLF,Séjours,Hospitalisation complète (>24h),séjours,5380.24,15064.67
+2014,4,PLF,Séjours,Hospitalisation complète (>24h),séjours,5043.98,20444.91
+2014,5,PLF,Séjours,Hospitalisation complète (>24h),séjours,4707.71,9684.43
+2014,6,PLF,Séjours,Hospitalisation complète (>24h),séjours,4707.71,4304.19
+2014,7,PLF,Séjours,Hospitalisation complète (>24h),séjours,5716.51,3228.14
+2014,8,PLF,Séjours,Hospitalisation complète (>24h),séjours,5380.24,3228.14
+2014,9,PLF,Séjours,Hospitalisation complète (>24h),séjours,5043.98,6456.29
+2014,10,PLF,Séjours,Hospitalisation complète (>24h),séjours,5043.98,11836.53
+2014,11,PLF,Séjours,Hospitalisation complète (>24h),séjours,5380.24,12912.58
+2014,12,PLF,Séjours,Hospitalisation complète (>24h),séjours,8070.36,8608.38
+2014,1,CFX,Séjours,Hospitalisation complète (>24h),séjours,429.07,411.9
+2014,2,CFX,Séjours,Hospitalisation complète (>24h),séjours,386.16,343.25
+2014,3,CFX,Séjours,Hospitalisation complète (>24h),séjours,343.25,961.11
+2014,4,CFX,Séjours,Hospitalisation complète (>24h),séjours,321.8,1304.36
+2014,5,CFX,Séjours,Hospitalisation complète (>24h),séjours,300.35,617.86
+2014,6,CFX,Séjours,Hospitalisation complète (>24h),séjours,300.35,274.6
+2014,7,CFX,Séjours,Hospitalisation complète (>24h),séjours,364.71,205.95
+2014,8,CFX,Séjours,Hospitalisation complète (>24h),séjours,343.25,205.95
+2014,9,CFX,Séjours,Hospitalisation complète (>24h),séjours,321.8,411.9
+2014,10,CFX,Séjours,Hospitalisation complète (>24h),séjours,321.8,755.16
+2014,11,CFX,Séjours,Hospitalisation complète (>24h),séjours,343.25,823.81
+2014,12,CFX,Séjours,Hospitalisation complète (>24h),séjours,514.88,549.21
+2015,1,PLF,Séjours,Hospitalisation complète (>24h),séjours,6853.3,6579.17
+2015,2,PLF,Séjours,Hospitalisation complète (>24h),séjours,6167.97,5482.64
+2015,3,PLF,Séjours,Hospitalisation complète (>24h),séjours,5482.64,15351.39
+2015,4,PLF,Séjours,Hospitalisation complète (>24h),séjours,5139.98,20834.03
+2015,5,PLF,Séjours,Hospitalisation complète (>24h),séjours,4797.31,9868.75
+2015,6,PLF,Séjours,Hospitalisation complète (>24h),séjours,4797.31,4386.11
+2015,7,PLF,Séjours,Hospitalisation complète (>24h),séjours,5825.31,3289.58
+2015,8,PLF,Séjours,Hospitalisation complète (>24h),séjours,5482.64,3289.58
+2015,9,PLF,Séjours,Hospitalisation complète (>24h),séjours,5139.98,6579.17
+2015,10,PLF,Séjours,Hospitalisation complète (>24h),séjours,5139.98,12061.81
+2015,11,PLF,Séjours,Hospitalisation complète (>24h),séjours,5482.64,13158.34
+2015,12,PLF,Séjours,Hospitalisation complète (>24h),séjours,8223.96,8772.22
+2015,1,CFX,Séjours,Hospitalisation complète (>24h),séjours,468.9,450.14
+2015,2,CFX,Séjours,Hospitalisation complète (>24h),séjours,422.01,375.12
+2015,3,CFX,Séjours,Hospitalisation complète (>24h),séjours,375.12,1050.34
+2015,4,CFX,Séjours,Hospitalisation complète (>24h),séjours,351.68,1425.46
+2015,5,CFX,Séjours,Hospitalisation complète (>24h),séjours,328.23,675.22
+2015,6,CFX,Séjours,Hospitalisation complète (>24h),séjours,328.23,300.1
+2015,7,CFX,Séjours,Hospitalisation complète (>24h),séjours,398.56,225.07
+2015,8,CFX,Séjours,Hospitalisation complète (>24h),séjours,375.12,225.07
+2015,9,CFX,Séjours,Hospitalisation complète (>24h),séjours,351.68,450.14
+2015,10,CFX,Séjours,Hospitalisation complète (>24h),séjours,351.68,825.26
+2015,11,CFX,Séjours,Hospitalisation complète (>24h),séjours,375.12,900.29
+2015,12,CFX,Séjours,Hospitalisation complète (>24h),séjours,562.68,600.19
+2016,1,PLF,Séjours,Hospitalisation complète (>24h),séjours,7075.15,6792.14
+2016,2,PLF,Séjours,Hospitalisation complète (>24h),séjours,6367.63,5660.12
+2016,3,PLF,Séjours,Hospitalisation complète (>24h),séjours,5660.12,15848.33
+2016,4,PLF,Séjours,Hospitalisation complète (>24h),séjours,5306.36,21508.44
+2016,5,PLF,Séjours,Hospitalisation complète (>24h),séjours,4952.6,10188.21
+2016,6,PLF,Séjours,Hospitalisation complète (>24h),séjours,4952.6,4528.09
+2016,7,PLF,Séjours,Hospitalisation complète (>24h),séjours,6013.87,3396.07
+2016,8,PLF,Séjours,Hospitalisation complète (>24h),séjours,5660.12,3396.07
+2016,9,PLF,Séjours,Hospitalisation complète (>24h),séjours,5306.36,6792.14
+2016,10,PLF,Séjours,Hospitalisation complète (>24h),séjours,5306.36,12452.26
+2016,11,PLF,Séjours,Hospitalisation complète (>24h),séjours,5660.12,13584.28
+2016,12,PLF,Séjours,Hospitalisation complète (>24h),séjours,8490.18,9056.19
+2016,1,CFX,Séjours,Hospitalisation complète (>24h),séjours,432.75,415.44
+2016,2,CFX,Séjours,Hospitalisation complète (>24h),séjours,389.48,346.2
+2016,3,CFX,Séjours,Hospitalisation complète (>24h),séjours,346.2,969.37
+2016,4,CFX,Séjours,Hospitalisation complète (>24h),séjours,324.57,1315.57
+2016,5,CFX,Séjours,Hospitalisation complète (>24h),séjours,302.93,623.17
+2016,6,CFX,Séjours,Hospitalisation complète (>24h),séjours,302.93,276.96
+2016,7,CFX,Séjours,Hospitalisation complète (>24h),séjours,367.84,207.72
+2016,8,CFX,Séjours,Hospitalisation complète (>24h),séjours,346.2,207.72
+2016,9,CFX,Séjours,Hospitalisation complète (>24h),séjours,324.57,415.44
+2016,10,CFX,Séjours,Hospitalisation complète (>24h),séjours,324.57,761.65
+2016,11,CFX,Séjours,Hospitalisation complète (>24h),séjours,346.2,830.89
+2016,12,CFX,Séjours,Hospitalisation complète (>24h),séjours,519.3,553.92
+2017,1,PLF,Séjours,Hospitalisation complète (>24h),séjours,7075.15,6792.14
+2017,2,PLF,Séjours,Hospitalisation complète (>24h),séjours,6367.63,5660.12
+2017,3,PLF,Séjours,Hospitalisation complète (>24h),séjours,5660.12,15848.33
+2017,4,PLF,Séjours,Hospitalisation complète (>24h),séjours,5306.36,21508.44
+2017,5,PLF,Séjours,Hospitalisation complète (>24h),séjours,4952.6,10188.21
+2017,6,PLF,Séjours,Hospitalisation complète (>24h),séjours,4952.6,4528.09
+2017,7,PLF,Séjours,Hospitalisation complète (>24h),séjours,6013.87,3396.07
+2017,8,PLF,Séjours,Hospitalisation complète (>24h),séjours,5660.12,3396.07
+2017,9,PLF,Séjours,Hospitalisation complète (>24h),séjours,5306.36,6792.14
+2017,10,PLF,Séjours,Hospitalisation complète (>24h),séjours,5306.36,12452.26
+2017,11,PLF,Séjours,Hospitalisation complète (>24h),séjours,5660.12,13584.28
+2017,12,PLF,Séjours,Hospitalisation complète (>24h),séjours,8490.18,9056.19
+2017,1,CFX,Séjours,Hospitalisation complète (>24h),séjours,432.75,415.44
+2017,2,CFX,Séjours,Hospitalisation complète (>24h),séjours,389.48,346.2
+2017,3,CFX,Séjours,Hospitalisation complète (>24h),séjours,346.2,969.37
+2017,4,CFX,Séjours,Hospitalisation complète (>24h),séjours,324.57,1315.57
+2017,5,CFX,Séjours,Hospitalisation complète (>24h),séjours,302.93,623.17
+2017,6,CFX,Séjours,Hospitalisation complète (>24h),séjours,302.93,276.96
+2017,7,CFX,Séjours,Hospitalisation complète (>24h),séjours,367.84,207.72
+2017,8,CFX,Séjours,Hospitalisation complète (>24h),séjours,346.2,207.72
+2017,9,CFX,Séjours,Hospitalisation complète (>24h),séjours,324.57,415.44
+2017,10,CFX,Séjours,Hospitalisation complète (>24h),séjours,324.57,761.65
+2017,11,CFX,Séjours,Hospitalisation complète (>24h),séjours,346.2,830.89
+2017,12,CFX,Séjours,Hospitalisation complète (>24h),séjours,519.3,553.92
+2011,1,PLF,Urgences,Passages totaux,passages,8300.2,7968.19
+2011,2,PLF,Urgences,Passages totaux,passages,7470.18,6640.16
+2011,3,PLF,Urgences,Passages totaux,passages,6640.16,18592.45
+2011,4,PLF,Urgences,Passages totaux,passages,6225.15,25232.61
+2011,5,PLF,Urgences,Passages totaux,passages,5810.14,11952.29
+2011,6,PLF,Urgences,Passages totaux,passages,5810.14,5312.13
+2011,7,PLF,Urgences,Passages totaux,passages,7055.17,3984.1
+2011,8,PLF,Urgences,Passages totaux,passages,6640.16,3984.1
+2011,9,PLF,Urgences,Passages totaux,passages,6225.15,7968.19
+2011,10,PLF,Urgences,Passages totaux,passages,6225.15,14608.35
+2011,11,PLF,Urgences,Passages totaux,passages,6640.16,15936.38
+2011,12,PLF,Urgences,Passages totaux,passages,9960.24,10624.26
+2011,1,CFX,Urgences,Passages totaux,passages,6086.05,5842.61
+2011,2,CFX,Urgences,Passages totaux,passages,5477.44,4868.84
+2011,3,CFX,Urgences,Passages totaux,passages,4868.84,13632.75
+2011,4,CFX,Urgences,Passages totaux,passages,4564.54,18501.59
+2011,5,CFX,Urgences,Passages totaux,passages,4260.23,8763.91
+2011,6,CFX,Urgences,Passages totaux,passages,4260.23,3895.07
+2011,7,CFX,Urgences,Passages totaux,passages,5173.14,2921.3
+2011,8,CFX,Urgences,Passages totaux,passages,4868.84,2921.3
+2011,9,CFX,Urgences,Passages totaux,passages,4564.54,5842.61
+2011,10,CFX,Urgences,Passages totaux,passages,4564.54,10711.45
+2011,11,CFX,Urgences,Passages totaux,passages,4868.84,11685.22
+2011,12,CFX,Urgences,Passages totaux,passages,7303.26,7790.14
+2012,1,PLF,Urgences,Passages totaux,passages,8599.3,8255.33
+2012,2,PLF,Urgences,Passages totaux,passages,7739.37,6879.44
+2012,3,PLF,Urgences,Passages totaux,passages,6879.44,19262.43
+2012,4,PLF,Urgences,Passages totaux,passages,6449.48,26141.87
+2012,5,PLF,Urgences,Passages totaux,passages,6019.51,12382.99
+2012,6,PLF,Urgences,Passages totaux,passages,6019.51,5503.55
+2012,7,PLF,Urgences,Passages totaux,passages,7309.4,4127.66
+2012,8,PLF,Urgences,Passages totaux,passages,6879.44,4127.66
+2012,9,PLF,Urgences,Passages totaux,passages,6449.48,8255.33
+2012,10,PLF,Urgences,Passages totaux,passages,6449.48,15134.77
+2012,11,PLF,Urgences,Passages totaux,passages,6879.44,16510.66
+2012,12,PLF,Urgences,Passages totaux,passages,10319.16,11007.1
+2012,1,CFX,Urgences,Passages totaux,passages,6086.05,5842.61
+2012,2,CFX,Urgences,Passages totaux,passages,5477.44,4868.84
+2012,3,CFX,Urgences,Passages totaux,passages,4868.84,13632.75
+2012,4,CFX,Urgences,Passages totaux,passages,4564.54,18501.59
+2012,5,CFX,Urgences,Passages totaux,passages,4260.23,8763.91
+2012,6,CFX,Urgences,Passages totaux,passages,4260.23,3895.07
+2012,7,CFX,Urgences,Passages totaux,passages,5173.14,2921.3
+2012,8,CFX,Urgences,Passages totaux,passages,4868.84,2921.3
+2012,9,CFX,Urgences,Passages totaux,passages,4564.54,5842.61
+2012,10,CFX,Urgences,Passages totaux,passages,4564.54,10711.45
+2012,11,CFX,Urgences,Passages totaux,passages,4868.84,11685.22
+2012,12,CFX,Urgences,Passages totaux,passages,7303.26,7790.14
+2013,1,PLF,Urgences,Passages totaux,passages,7761.55,7451.09
+2013,2,PLF,Urgences,Passages totaux,passages,6985.4,6209.24
+2013,3,PLF,Urgences,Passages totaux,passages,6209.24,17385.87
+2013,4,PLF,Urgences,Passages totaux,passages,5821.16,23595.11
+2013,5,PLF,Urgences,Passages totaux,passages,5433.09,11176.63
+2013,6,PLF,Urgences,Passages totaux,passages,5433.09,4967.39
+2013,7,PLF,Urgences,Passages totaux,passages,6597.32,3725.54
+2013,8,PLF,Urgences,Passages totaux,passages,6209.24,3725.54
+2013,9,PLF,Urgences,Passages totaux,passages,5821.16,7451.09
+2013,10,PLF,Urgences,Passages totaux,passages,5821.16,13660.33
+2013,11,PLF,Urgences,Passages totaux,passages,6209.24,14902.18
+2013,12,PLF,Urgences,Passages totaux,passages,9313.86,9934.78
+2013,1,CFX,Urgences,Passages totaux,passages,6086.05,5842.61
+2013,2,CFX,Urgences,Passages totaux,passages,5477.44,4868.84
+2013,3,CFX,Urgences,Passages totaux,passages,4868.84,13632.75
+2013,4,CFX,Urgences,Passages totaux,passages,4564.54,18501.59
+2013,5,CFX,Urgences,Passages totaux,passages,4260.23,8763.91
+2013,6,CFX,Urgences,Passages totaux,passages,4260.23,3895.07
+2013,7,CFX,Urgences,Passages totaux,passages,5173.14,2921.3
+2013,8,CFX,Urgences,Passages totaux,passages,4868.84,2921.3
+2013,9,CFX,Urgences,Passages totaux,passages,4564.54,5842.61
+2013,10,CFX,Urgences,Passages totaux,passages,4564.54,10711.45
+2013,11,CFX,Urgences,Passages totaux,passages,4868.84,11685.22
+2013,12,CFX,Urgences,Passages totaux,passages,7303.26,7790.14
+2014,1,PLF,Urgences,Passages totaux,passages,6923.8,6646.85
+2014,2,PLF,Urgences,Passages totaux,passages,6231.42,5539.04
+2014,3,PLF,Urgences,Passages totaux,passages,5539.04,15509.31
+2014,4,PLF,Urgences,Passages totaux,passages,5192.85,21048.35
+2014,5,PLF,Urgences,Passages totaux,passages,4846.66,9970.27
+2014,6,PLF,Urgences,Passages totaux,passages,4846.66,4431.23
+2014,7,PLF,Urgences,Passages totaux,passages,5885.23,3323.42
+2014,8,PLF,Urgences,Passages totaux,passages,5539.04,3323.42
+2014,9,PLF,Urgences,Passages totaux,passages,5192.85,6646.85
+2014,10,PLF,Urgences,Passages totaux,passages,5192.85,12185.89
+2014,11,PLF,Urgences,Passages totaux,passages,5539.04,13293.7
+2014,12,PLF,Urgences,Passages totaux,passages,8308.56,8862.46
+2014,1,CFX,Urgences,Passages totaux,passages,6086.05,5842.61
+2014,2,CFX,Urgences,Passages totaux,passages,5477.44,4868.84
+2014,3,CFX,Urgences,Passages totaux,passages,4868.84,13632.75
+2014,4,CFX,Urgences,Passages totaux,passages,4564.54,18501.59
+2014,5,CFX,Urgences,Passages totaux,passages,4260.23,8763.91
+2014,6,CFX,Urgences,Passages totaux,passages,4260.23,3895.07
+2014,7,CFX,Urgences,Passages totaux,passages,5173.14,2921.3
+2014,8,CFX,Urgences,Passages totaux,passages,4868.84,2921.3
+2014,9,CFX,Urgences,Passages totaux,passages,4564.54,5842.61
+2014,10,CFX,Urgences,Passages totaux,passages,4564.54,10711.45
+2014,11,CFX,Urgences,Passages totaux,passages,4868.84,11685.22
+2014,12,CFX,Urgences,Passages totaux,passages,7303.26,7790.14
+2015,1,PLF,Urgences,Passages totaux,passages,6086.05,5842.61
+2015,2,PLF,Urgences,Passages totaux,passages,5477.44,4868.84
+2015,3,PLF,Urgences,Passages totaux,passages,4868.84,13632.75
+2015,4,PLF,Urgences,Passages totaux,passages,4564.54,18501.59
+2015,5,PLF,Urgences,Passages totaux,passages,4260.23,8763.91
+2015,6,PLF,Urgences,Passages totaux,passages,4260.23,3895.07
+2015,7,PLF,Urgences,Passages totaux,passages,5173.14,2921.3
+2015,8,PLF,Urgences,Passages totaux,passages,4868.84,2921.3
+2015,9,PLF,Urgences,Passages totaux,passages,4564.54,5842.61
+2015,10,PLF,Urgences,Passages totaux,passages,4564.54,10711.45
+2015,11,PLF,Urgences,Passages totaux,passages,4868.84,11685.22
+2015,12,PLF,Urgences,Passages totaux,passages,7303.26,7790.14
+2015,1,CFX,Urgences,Passages totaux,passages,6086.05,5842.61
+2015,2,CFX,Urgences,Passages totaux,passages,5477.44,4868.84
+2015,3,CFX,Urgences,Passages totaux,passages,4868.84,13632.75
+2015,4,CFX,Urgences,Passages totaux,passages,4564.54,18501.59
+2015,5,CFX,Urgences,Passages totaux,passages,4260.23,8763.91
+2015,6,CFX,Urgences,Passages totaux,passages,4260.23,3895.07
+2015,7,CFX,Urgences,Passages totaux,passages,5173.14,2921.3
+2015,8,CFX,Urgences,Passages totaux,passages,4868.84,2921.3
+2015,9,CFX,Urgences,Passages totaux,passages,4564.54,5842.61
+2015,10,CFX,Urgences,Passages totaux,passages,4564.54,10711.45
+2015,11,CFX,Urgences,Passages totaux,passages,4868.84,11685.22
+2015,12,CFX,Urgences,Passages totaux,passages,7303.26,7790.14
+2016,1,PLF,Urgences,Passages totaux,passages,6383.9,6128.54
+2016,2,PLF,Urgences,Passages totaux,passages,5745.51,5107.12
+2016,3,PLF,Urgences,Passages totaux,passages,5107.12,14299.94
+2016,4,PLF,Urgences,Passages totaux,passages,4787.93,19407.06
+2016,5,PLF,Urgences,Passages totaux,passages,4468.73,9192.82
+2016,6,PLF,Urgences,Passages totaux,passages,4468.73,4085.7
+2016,7,PLF,Urgences,Passages totaux,passages,5426.31,3064.27
+2016,8,PLF,Urgences,Passages totaux,passages,5107.12,3064.27
+2016,9,PLF,Urgences,Passages totaux,passages,4787.93,6128.54
+2016,10,PLF,Urgences,Passages totaux,passages,4787.93,11235.66
+2016,11,PLF,Urgences,Passages totaux,passages,5107.12,12257.09
+2016,12,PLF,Urgences,Passages totaux,passages,7660.68,8171.39
+2016,1,CFX,Urgences,Passages totaux,passages,6383.9,6128.54
+2016,2,CFX,Urgences,Passages totaux,passages,5745.51,5107.12
+2016,3,CFX,Urgences,Passages totaux,passages,5107.12,14299.94
+2016,4,CFX,Urgences,Passages totaux,passages,4787.93,19407.06
+2016,5,CFX,Urgences,Passages totaux,passages,4468.73,9192.82
+2016,6,CFX,Urgences,Passages totaux,passages,4468.73,4085.7
+2016,7,CFX,Urgences,Passages totaux,passages,5426.31,3064.27
+2016,8,CFX,Urgences,Passages totaux,passages,5107.12,3064.27
+2016,9,CFX,Urgences,Passages totaux,passages,4787.93,6128.54
+2016,10,CFX,Urgences,Passages totaux,passages,4787.93,11235.66
+2016,11,CFX,Urgences,Passages totaux,passages,5107.12,12257.09
+2016,12,CFX,Urgences,Passages totaux,passages,7660.68,8171.39
+2017,1,PLF,Urgences,Passages totaux,passages,6383.9,6128.54
+2017,2,PLF,Urgences,Passages totaux,passages,5745.51,5107.12
+2017,3,PLF,Urgences,Passages totaux,passages,5107.12,14299.94
+2017,4,PLF,Urgences,Passages totaux,passages,4787.93,19407.06
+2017,5,PLF,Urgences,Passages totaux,passages,4468.73,9192.82
+2017,6,PLF,Urgences,Passages totaux,passages,4468.73,4085.7
+2017,7,PLF,Urgences,Passages totaux,passages,5426.31,3064.27
+2017,8,PLF,Urgences,Passages totaux,passages,5107.12,3064.27
+2017,9,PLF,Urgences,Passages totaux,passages,4787.93,6128.54
+2017,10,PLF,Urgences,Passages totaux,passages,4787.93,11235.66
+2017,11,PLF,Urgences,Passages totaux,passages,5107.12,12257.09
+2017,12,PLF,Urgences,Passages totaux,passages,7660.68,8171.39
+2017,1,CFX,Urgences,Passages totaux,passages,6383.9,6128.54
+2017,2,CFX,Urgences,Passages totaux,passages,5745.51,5107.12
+2017,3,CFX,Urgences,Passages totaux,passages,5107.12,14299.94
+2017,4,CFX,Urgences,Passages totaux,passages,4787.93,19407.06
+2017,5,CFX,Urgences,Passages totaux,passages,4468.73,9192.82
+2017,6,CFX,Urgences,Passages totaux,passages,4468.73,4085.7
+2017,7,CFX,Urgences,Passages totaux,passages,5426.31,3064.27
+2017,8,CFX,Urgences,Passages totaux,passages,5107.12,3064.27
+2017,9,CFX,Urgences,Passages totaux,passages,4787.93,6128.54
+2017,10,CFX,Urgences,Passages totaux,passages,4787.93,11235.66
+2017,11,CFX,Urgences,Passages totaux,passages,5107.12,12257.09
+2017,12,CFX,Urgences,Passages totaux,passages,7660.68,8171.39
+2011,1,PLF,Urgences,Patients admis en hospitalisation,patients,1006.3,966.05
+2011,2,PLF,Urgences,Patients admis en hospitalisation,patients,905.67,805.04
+2011,3,PLF,Urgences,Patients admis en hospitalisation,patients,805.04,2254.11
+2011,4,PLF,Urgences,Patients admis en hospitalisation,patients,754.73,3059.15
+2011,5,PLF,Urgences,Patients admis en hospitalisation,patients,704.41,1449.07
+2011,6,PLF,Urgences,Patients admis en hospitalisation,patients,704.41,644.03
+2011,7,PLF,Urgences,Patients admis en hospitalisation,patients,855.36,483.02
+2011,8,PLF,Urgences,Patients admis en hospitalisation,patients,805.04,483.02
+2011,9,PLF,Urgences,Patients admis en hospitalisation,patients,754.73,966.05
+2011,10,PLF,Urgences,Patients admis en hospitalisation,patients,754.73,1771.09
+2011,11,PLF,Urgences,Patients admis en hospitalisation,patients,805.04,1932.1
+2011,12,PLF,Urgences,Patients admis en hospitalisation,patients,1207.56,1288.06
+2011,1,CFX,Urgences,Patients admis en hospitalisation,patients,379.4,364.22
+2011,2,CFX,Urgences,Patients admis en hospitalisation,patients,341.46,303.52
+2011,3,CFX,Urgences,Patients admis en hospitalisation,patients,303.52,849.86
+2011,4,CFX,Urgences,Patients admis en hospitalisation,patients,284.55,1153.38
+2011,5,CFX,Urgences,Patients admis en hospitalisation,patients,265.58,546.34
+2011,6,CFX,Urgences,Patients admis en hospitalisation,patients,265.58,242.82
+2011,7,CFX,Urgences,Patients admis en hospitalisation,patients,322.49,182.11
+2011,8,CFX,Urgences,Patients admis en hospitalisation,patients,303.52,182.11
+2011,9,CFX,Urgences,Patients admis en hospitalisation,patients,284.55,364.22
+2011,10,CFX,Urgences,Patients admis en hospitalisation,patients,284.55,667.74
+2011,11,CFX,Urgences,Patients admis en hospitalisation,patients,303.52,728.45
+2011,12,CFX,Urgences,Patients admis en hospitalisation,patients,455.28,485.63
+2012,1,PLF,Urgences,Patients admis en hospitalisation,patients,1006.3,966.05
+2012,2,PLF,Urgences,Patients admis en hospitalisation,patients,905.67,805.04
+2012,3,PLF,Urgences,Patients admis en hospitalisation,patients,805.04,2254.11
+2012,4,PLF,Urgences,Patients admis en hospitalisation,patients,754.73,3059.15
+2012,5,PLF,Urgences,Patients admis en hospitalisation,patients,704.41,1449.07
+2012,6,PLF,Urgences,Patients admis en hospitalisation,patients,704.41,644.03
+2012,7,PLF,Urgences,Patients admis en hospitalisation,patients,855.36,483.02
+2012,8,PLF,Urgences,Patients admis en hospitalisation,patients,805.04,483.02
+2012,9,PLF,Urgences,Patients admis en hospitalisation,patients,754.73,966.05
+2012,10,PLF,Urgences,Patients admis en hospitalisation,patients,754.73,1771.09
+2012,11,PLF,Urgences,Patients admis en hospitalisation,patients,805.04,1932.1
+2012,12,PLF,Urgences,Patients admis en hospitalisation,patients,1207.56,1288.06
+2012,1,CFX,Urgences,Patients admis en hospitalisation,patients,379.4,364.22
+2012,2,CFX,Urgences,Patients admis en hospitalisation,patients,341.46,303.52
+2012,3,CFX,Urgences,Patients admis en hospitalisation,patients,303.52,849.86
+2012,4,CFX,Urgences,Patients admis en hospitalisation,patients,284.55,1153.38
+2012,5,CFX,Urgences,Patients admis en hospitalisation,patients,265.58,546.34
+2012,6,CFX,Urgences,Patients admis en hospitalisation,patients,265.58,242.82
+2012,7,CFX,Urgences,Patients admis en hospitalisation,patients,322.49,182.11
+2012,8,CFX,Urgences,Patients admis en hospitalisation,patients,303.52,182.11
+2012,9,CFX,Urgences,Patients admis en hospitalisation,patients,284.55,364.22
+2012,10,CFX,Urgences,Patients admis en hospitalisation,patients,284.55,667.74
+2012,11,CFX,Urgences,Patients admis en hospitalisation,patients,303.52,728.45
+2012,12,CFX,Urgences,Patients admis en hospitalisation,patients,455.28,485.63
+2013,1,PLF,Urgences,Patients admis en hospitalisation,patients,797.33,765.44
+2013,2,PLF,Urgences,Patients admis en hospitalisation,patients,717.6,637.87
+2013,3,PLF,Urgences,Patients admis en hospitalisation,patients,637.87,1786.03
+2013,4,PLF,Urgences,Patients admis en hospitalisation,patients,598.0,2423.89
+2013,5,PLF,Urgences,Patients admis en hospitalisation,patients,558.13,1148.16
+2013,6,PLF,Urgences,Patients admis en hospitalisation,patients,558.13,510.29
+2013,7,PLF,Urgences,Patients admis en hospitalisation,patients,677.73,382.72
+2013,8,PLF,Urgences,Patients admis en hospitalisation,patients,637.87,382.72
+2013,9,PLF,Urgences,Patients admis en hospitalisation,patients,598.0,765.44
+2013,10,PLF,Urgences,Patients admis en hospitalisation,patients,598.0,1403.31
+2013,11,PLF,Urgences,Patients admis en hospitalisation,patients,637.87,1530.88
+2013,12,PLF,Urgences,Patients admis en hospitalisation,patients,956.8,1020.59
+2013,1,CFX,Urgences,Patients admis en hospitalisation,patients,379.4,364.22
+2013,2,CFX,Urgences,Patients admis en hospitalisation,patients,341.46,303.52
+2013,3,CFX,Urgences,Patients admis en hospitalisation,patients,303.52,849.86
+2013,4,CFX,Urgences,Patients admis en hospitalisation,patients,284.55,1153.38
+2013,5,CFX,Urgences,Patients admis en hospitalisation,patients,265.58,546.34
+2013,6,CFX,Urgences,Patients admis en hospitalisation,patients,265.58,242.82
+2013,7,CFX,Urgences,Patients admis en hospitalisation,patients,322.49,182.11
+2013,8,CFX,Urgences,Patients admis en hospitalisation,patients,303.52,182.11
+2013,9,CFX,Urgences,Patients admis en hospitalisation,patients,284.55,364.22
+2013,10,CFX,Urgences,Patients admis en hospitalisation,patients,284.55,667.74
+2013,11,CFX,Urgences,Patients admis en hospitalisation,patients,303.52,728.45
+2013,12,CFX,Urgences,Patients admis en hospitalisation,patients,455.28,485.63
+2014,1,PLF,Urgences,Patients admis en hospitalisation,patients,588.37,564.83
+2014,2,PLF,Urgences,Patients admis en hospitalisation,patients,529.53,470.69
+2014,3,PLF,Urgences,Patients admis en hospitalisation,patients,470.69,1317.94
+2014,4,PLF,Urgences,Patients admis en hospitalisation,patients,441.28,1788.64
+2014,5,PLF,Urgences,Patients admis en hospitalisation,patients,411.86,847.25
+2014,6,PLF,Urgences,Patients admis en hospitalisation,patients,411.86,376.55
+2014,7,PLF,Urgences,Patients admis en hospitalisation,patients,500.11,282.42
+2014,8,PLF,Urgences,Patients admis en hospitalisation,patients,470.69,282.42
+2014,9,PLF,Urgences,Patients admis en hospitalisation,patients,441.28,564.83
+2014,10,PLF,Urgences,Patients admis en hospitalisation,patients,441.28,1035.53
+2014,11,PLF,Urgences,Patients admis en hospitalisation,patients,470.69,1129.66
+2014,12,PLF,Urgences,Patients admis en hospitalisation,patients,706.04,753.11
+2014,1,CFX,Urgences,Patients admis en hospitalisation,patients,379.4,364.22
+2014,2,CFX,Urgences,Patients admis en hospitalisation,patients,341.46,303.52
+2014,3,CFX,Urgences,Patients admis en hospitalisation,patients,303.52,849.86
+2014,4,CFX,Urgences,Patients admis en hospitalisation,patients,284.55,1153.38
+2014,5,CFX,Urgences,Patients admis en hospitalisation,patients,265.58,546.34
+2014,6,CFX,Urgences,Patients admis en hospitalisation,patients,265.58,242.82
+2014,7,CFX,Urgences,Patients admis en hospitalisation,patients,322.49,182.11
+2014,8,CFX,Urgences,Patients admis en hospitalisation,patients,303.52,182.11
+2014,9,CFX,Urgences,Patients admis en hospitalisation,patients,284.55,364.22
+2014,10,CFX,Urgences,Patients admis en hospitalisation,patients,284.55,667.74
+2014,11,CFX,Urgences,Patients admis en hospitalisation,patients,303.52,728.45
+2014,12,CFX,Urgences,Patients admis en hospitalisation,patients,455.28,485.63
+2015,1,PLF,Urgences,Patients admis en hospitalisation,patients,379.4,364.22
+2015,2,PLF,Urgences,Patients admis en hospitalisation,patients,341.46,303.52
+2015,3,PLF,Urgences,Patients admis en hospitalisation,patients,303.52,849.86
+2015,4,PLF,Urgences,Patients admis en hospitalisation,patients,284.55,1153.38
+2015,5,PLF,Urgences,Patients admis en hospitalisation,patients,265.58,546.34
+2015,6,PLF,Urgences,Patients admis en hospitalisation,patients,265.58,242.82
+2015,7,PLF,Urgences,Patients admis en hospitalisation,patients,322.49,182.11
+2015,8,PLF,Urgences,Patients admis en hospitalisation,patients,303.52,182.11
+2015,9,PLF,Urgences,Patients admis en hospitalisation,patients,284.55,364.22
+2015,10,PLF,Urgences,Patients admis en hospitalisation,patients,284.55,667.74
+2015,11,PLF,Urgences,Patients admis en hospitalisation,patients,303.52,728.45
+2015,12,PLF,Urgences,Patients admis en hospitalisation,patients,455.28,485.63
+2015,1,CFX,Urgences,Patients admis en hospitalisation,patients,379.4,364.22
+2015,2,CFX,Urgences,Patients admis en hospitalisation,patients,341.46,303.52
+2015,3,CFX,Urgences,Patients admis en hospitalisation,patients,303.52,849.86
+2015,4,CFX,Urgences,Patients admis en hospitalisation,patients,284.55,1153.38
+2015,5,CFX,Urgences,Patients admis en hospitalisation,patients,265.58,546.34
+2015,6,CFX,Urgences,Patients admis en hospitalisation,patients,265.58,242.82
+2015,7,CFX,Urgences,Patients admis en hospitalisation,patients,322.49,182.11
+2015,8,CFX,Urgences,Patients admis en hospitalisation,patients,303.52,182.11
+2015,9,CFX,Urgences,Patients admis en hospitalisation,patients,284.55,364.22
+2015,10,CFX,Urgences,Patients admis en hospitalisation,patients,284.55,667.74
+2015,11,CFX,Urgences,Patients admis en hospitalisation,patients,303.52,728.45
+2015,12,CFX,Urgences,Patients admis en hospitalisation,patients,455.28,485.63
+2016,1,PLF,Urgences,Patients admis en hospitalisation,patients,379.4,364.22
+2016,2,PLF,Urgences,Patients admis en hospitalisation,patients,341.46,303.52
+2016,3,PLF,Urgences,Patients admis en hospitalisation,patients,303.52,849.86
+2016,4,PLF,Urgences,Patients admis en hospitalisation,patients,284.55,1153.38
+2016,5,PLF,Urgences,Patients admis en hospitalisation,patients,265.58,546.34
+2016,6,PLF,Urgences,Patients admis en hospitalisation,patients,265.58,242.82
+2016,7,PLF,Urgences,Patients admis en hospitalisation,patients,322.49,182.11
+2016,8,PLF,Urgences,Patients admis en hospitalisation,patients,303.52,182.11
+2016,9,PLF,Urgences,Patients admis en hospitalisation,patients,284.55,364.22
+2016,10,PLF,Urgences,Patients admis en hospitalisation,patients,284.55,667.74
+2016,11,PLF,Urgences,Patients admis en hospitalisation,patients,303.52,728.45
+2016,12,PLF,Urgences,Patients admis en hospitalisation,patients,455.28,485.63
+2016,1,CFX,Urgences,Patients admis en hospitalisation,patients,379.4,364.22
+2016,2,CFX,Urgences,Patients admis en hospitalisation,patients,341.46,303.52
+2016,3,CFX,Urgences,Patients admis en hospitalisation,patients,303.52,849.86
+2016,4,CFX,Urgences,Patients admis en hospitalisation,patients,284.55,1153.38
+2016,5,CFX,Urgences,Patients admis en hospitalisation,patients,265.58,546.34
+2016,6,CFX,Urgences,Patients admis en hospitalisation,patients,265.58,242.82
+2016,7,CFX,Urgences,Patients admis en hospitalisation,patients,322.49,182.11
+2016,8,CFX,Urgences,Patients admis en hospitalisation,patients,303.52,182.11
+2016,9,CFX,Urgences,Patients admis en hospitalisation,patients,284.55,364.22
+2016,10,CFX,Urgences,Patients admis en hospitalisation,patients,284.55,667.74
+2016,11,CFX,Urgences,Patients admis en hospitalisation,patients,303.52,728.45
+2016,12,CFX,Urgences,Patients admis en hospitalisation,patients,455.28,485.63
+2017,1,PLF,Urgences,Patients admis en hospitalisation,patients,379.4,364.22
+2017,2,PLF,Urgences,Patients admis en hospitalisation,patients,341.46,303.52
+2017,3,PLF,Urgences,Patients admis en hospitalisation,patients,303.52,849.86
+2017,4,PLF,Urgences,Patients admis en hospitalisation,patients,284.55,1153.38
+2017,5,PLF,Urgences,Patients admis en hospitalisation,patients,265.58,546.34
+2017,6,PLF,Urgences,Patients admis en hospitalisation,patients,265.58,242.82
+2017,7,PLF,Urgences,Patients admis en hospitalisation,patients,322.49,182.11
+2017,8,PLF,Urgences,Patients admis en hospitalisation,patients,303.52,182.11
+2017,9,PLF,Urgences,Patients admis en hospitalisation,patients,284.55,364.22
+2017,10,PLF,Urgences,Patients admis en hospitalisation,patients,284.55,667.74
+2017,11,PLF,Urgences,Patients admis en hospitalisation,patients,303.52,728.45
+2017,12,PLF,Urgences,Patients admis en hospitalisation,patients,455.28,485.63
+2017,1,CFX,Urgences,Patients admis en hospitalisation,patients,379.4,364.22
+2017,2,CFX,Urgences,Patients admis en hospitalisation,patients,341.46,303.52
+2017,3,CFX,Urgences,Patients admis en hospitalisation,patients,303.52,849.86
+2017,4,CFX,Urgences,Patients admis en hospitalisation,patients,284.55,1153.38
+2017,5,CFX,Urgences,Patients admis en hospitalisation,patients,265.58,546.34
+2017,6,CFX,Urgences,Patients admis en hospitalisation,patients,265.58,242.82
+2017,7,CFX,Urgences,Patients admis en hospitalisation,patients,322.49,182.11
+2017,8,CFX,Urgences,Patients admis en hospitalisation,patients,303.52,182.11
+2017,9,CFX,Urgences,Patients admis en hospitalisation,patients,284.55,364.22
+2017,10,CFX,Urgences,Patients admis en hospitalisation,patients,284.55,667.74
+2017,11,CFX,Urgences,Patients admis en hospitalisation,patients,303.52,728.45
+2017,12,CFX,Urgences,Patients admis en hospitalisation,patients,455.28,485.63

@@ -1,0 +1,23 @@
+ANNEE,INDICATEUR,SOUS-INDICATEUR,PLF,CFX,TOTAL,UNITE
+2011,Urgences,Passages totaux,83002,,,passages
+2012,Urgences,Passages totaux,85993,,,passages
+2015,Urgences,Passages totaux,,,121721,passages
+2016,Urgences,Passages totaux,,,127678,passages
+2012,Urgences,Patients admis en hospitalisation,10063,,,patients
+2015,Urgences,Patients admis en hospitalisation,,,7588,patients
+2012,Consultations,Consultations externes,657047,3911,660958,consultations
+2015,Consultations,Consultations externes,,,607950,consultations
+2016,Consultations,Consultations externes,,,644602,consultations
+2012,Séjours,Hospitalisation complète (>24h),64693,3494,68187,séjours
+2015,Séjours,Hospitalisation complète (>24h),68533,4689,73222,séjours
+2016,Séjours,Hospitalisation complète (>24h),,,75079,séjours
+2012,Séjours,Ambulatoire (<24h),86529,1184,87713,séjours
+2015,Séjours,Ambulatoire (<24h),93558,1614,95172,séjours
+2016,Séjours,Ambulatoire (<24h),,,100319,séjours
+2015,Actes,Actes opératoires,,,47925,actes
+2015,Naissances,Accouchements,,,2279,naissances
+2012,Naissances,Naissances,,,2457,naissances
+2016,Naissances,Accouchements,,,2186,naissances
+2012,Greffes,Transplantations,,,314,greffes
+2015,Greffes,Transplantations,,,378,greffes
+2016,Greffes,Transplantations,,,394,greffes

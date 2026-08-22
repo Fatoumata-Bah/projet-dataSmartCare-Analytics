@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/
+
+# VS Code (on garde settings.json/launch.json partagés, on ignore le reste)
+.vscode/*
+!.vscode/settings.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs / temporaires
+*.log
+.ipynb_checkpoints/

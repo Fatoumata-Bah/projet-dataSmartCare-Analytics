@@ -1,0 +1,30 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Streamlit: Dashboard",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "streamlit",
+            "args": ["run", "app.py"],
+            "justMyCode": true,
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "name": "Python: build_raw.py",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/data/build_raw.py",
+            "cwd": "${workspaceFolder}/data",
+            "justMyCode": true
+        },
+        {
+            "name": "Python: generate_all.py",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/data/generate_all.py",
+            "cwd": "${workspaceFolder}/data",
+            "justMyCode": true
+        }
+    ]
+}
