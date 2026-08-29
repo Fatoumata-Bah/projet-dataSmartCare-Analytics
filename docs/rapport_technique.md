@@ -166,6 +166,42 @@ l'établissement.
 `utils.py::forecast_next_year` — `SARIMAX(order=(1,1,1), seasonal_order=(1,1,1,12))`
 sur la série mensuelle reconstituée. Nécessite ≥ 24 points mensuels.
 
+#### Visuel : la prévision en pratique
+
+Figure générée par `docs/generate_figures.py` (réutilise directement
+`utils.py::fit_forecast_model`, la même fonction que le dashboard — pas de
+logique dupliquée) sur la série "Urgences → Passages totaux" (PLF+CFX, mode
+Normal), la plus longue et la plus lisible du dataset :
+
+![Prévision SARIMA — Urgences, passages totaux](figures/forecast_urgences.png)
+
+Le modèle reproduit fidèlement le profil de saisonnalité mensuel injecté en
+amont (pic récurrent en décembre, creux en milieu d'année) et prolonge cette
+forme sur 12 mois, avec un intervalle de confiance à 80 % qui s'élargit
+logiquement à mesure que l'horizon de prévision s'éloigne.
+
+#### Visuel : diagnostics du modèle
+
+![Diagnostics du modèle SARIMA](figures/forecast_diagnostics.png)
+
+Lecture des 4 panneaux (sortie standard `statsmodels`, `results.plot_diagnostics()`) :
+
+- **Résidus standardisés** (haut gauche) : globalement centrés sur 0, sauf un
+  **pic net à la jonction 2015-2016** (résidu > 6 écarts-types). Ce n'est pas
+  un artefact du modèle mais la **trace directe** de la limite documentée en
+  §3.1 : la répartition PLF/CFX des "Urgences" y est reconstruite avec un
+  ratio par défaut faute d'année où les deux valeurs sont connues
+  simultanément, ce qui crée un saut artificiel dans la série que le modèle
+  ne peut pas anticiper. C'est un bon exemple concret de pourquoi la
+  fiabilité du modèle est bornée par la qualité de la série d'entrée (§4.1
+  ci-dessous), pas par un mauvais choix d'ordres SARIMA.
+- **Histogramme / Q-Q plot** (queue de distribution à droite plus épaisse que
+  la normale théorique) : cohérent avec ce même point isolé extrême, qui
+  tire la distribution des résidus vers une asymétrie non-gaussienne.
+- **Corrélogramme** (bas droite) : aucune autocorrélation résiduelle
+  significative au-delà du retard 0 — le modèle capture bien la structure
+  temporelle résiduelle, ce point isolé mis à part.
+
 - **Choix des ordres** : (1,1,1) sur la composante non saisonnière capture une
   tendance simple (différenciation d'ordre 1) avec un terme autorégressif et
   un terme de moyenne mobile — un choix standard et robuste pour une première
