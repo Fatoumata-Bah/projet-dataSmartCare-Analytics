@@ -48,7 +48,8 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Ou depuis VS Code : `F5` → configuration **"Streamlit: Dashboard"** (déjà
+Ça ouvre automatiquement le navigateur sur **<http://localhost:8501>**. Ou
+depuis VS Code : `F5` → configuration **"Streamlit: Dashboard"** (déjà
 configurée dans `.vscode/launch.json`).
 
 ## Régénérer les données
