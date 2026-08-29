@@ -53,6 +53,17 @@ python3 build_raw.py
 python3 generate_all.py
 ```
 
+> Sous Windows, si la console affiche une `UnicodeEncodeError` sur les
+> caractères `✅`, lancez plutôt `set PYTHONIOENCODING=utf-8` (ou
+> `$env:PYTHONIOENCODING="utf-8"` en PowerShell) avant ces deux commandes.
+
+### Export Excel (`exports/dataset_PSL_CFX.xlsx`)
+
+Ce fichier est **maintenu manuellement** (résumé mis en forme, pas un export
+brut des CSV) : `data/generate_all.py` ne le régénère pas automatiquement.
+Si vous modifiez `data/build_raw.py`, pensez à mettre à jour ce fichier à la
+main à partir des CSV `*-interpolated.csv` / `*-all.csv` correspondants.
+
 ## Tests
 
 ```bash
@@ -86,10 +97,12 @@ donnée mesurée.
 
 ## Livrables du projet (cf. énoncé, `sources/Projet_Data_Ko.pdf`)
 
-- [x] Dataset structuré (`data/`, export `exports/dataset_PSL_CFX.xlsx`)
+- [x] Dataset structuré (`data/`, export `exports/dataset_PSL_CFX.xlsx` — à
+      rafraîchir manuellement, voir note ci-dessus)
 - [x] Modèle de prévision SARIMA (`utils.py`)
-- [x] Simulation de crise sanitaire (`data/pipeline.py`)
+- [x] Simulation de crise sanitaire (`data/pipeline.py`, coefficients sourcés
+      dans `docs/rapport_technique.md` §3.2)
 - [x] Infographie interactive (`app.py` + `pages/`)
-- [ ] Rapport technique (`docs/rapport_technique.md` — squelette à compléter)
-- [ ] Rapport de mise en place (`docs/rapport_mise_en_place.md` — squelette à compléter)
+- [x] Rapport technique (`docs/rapport_technique.md`)
+- [x] Rapport de mise en place (`docs/rapport_mise_en_place.md`)
 - [ ] Présentation de soutenance
