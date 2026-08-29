@@ -15,6 +15,14 @@ Streamlit pour restituer tout ça de façon compréhensible.
   propositions pour gérer les afflux de patients et se préparer aux crises
   sanitaires.
 
+Les deux rapports sont aussi disponibles en PDF mis en forme dans
+[docs/pdf/](docs/pdf/) (page de titre, sections numérotées). Pour les
+régénérer après une modification :
+
+```bash
+python docs/generate_pdf.py
+```
+
 ## Structure du repo
 
 ```
