@@ -1,25 +1,21 @@
 # Plan de soutenance — PSL-CFX Analytics
 
-> Trame de contenu (pas de mise en forme) pour préparer les slides. À adapter
-> au temps réellement imparti. S'appuie sur `docs/rapport_technique.md` et
-> `docs/rapport_mise_en_place.md` — ne les recopie pas, les résume.
->
-> Rappel de l'énoncé (`sources/Projet_Data_Ko.pdf` p.6-7) : la soutenance doit
-> couvrir 4 points précis — (1) démonstration complète du prototype et des
-> simulations, (2) explication des choix techniques et analytiques,
-> (3) analyse des résultats du modèle prédictif et recommandations
-> concrètes, (4) discussion sur les perspectives d'évolution. Le plan
-> ci-dessous suit cet ordre.
+Trame de contenu pour préparer mes slides, à adapter selon le temps qui me
+sera vraiment donné. Je m'appuie sur mes deux rapports sans les recopier,
+juste les résumer à l'oral. L'énoncé demande de couvrir 4 points à la
+soutenance : démonstration du prototype, choix techniques, résultats du
+modèle prédictif + recommandations, perspectives d'évolution — je garde cet
+ordre.
 
-## Minutage indicatif (à ajuster selon le temps réel imparti)
+## Minutage indicatif
 
 | Bloc | Durée |
-|---|---|
-| 1. Contexte & objectifs | 1-2 min |
-| 2. Démonstration du dashboard (live) | 5-6 min |
-| 3. Choix techniques et analytiques | 3-4 min |
-| 4. Résultats du modèle prédictif + recommandations | 4-5 min |
-| 5. Limites et perspectives | 2 min |
+| --- | --- |
+| Contexte & objectifs | 1-2 min |
+| Démonstration du dashboard (live) | 5-6 min |
+| Choix techniques et analytiques | 3-4 min |
+| Résultats du modèle prédictif + recommandations | 4-5 min |
+| Limites et perspectives | 2 min |
 | Questions | reste du temps |
 
 ---
@@ -30,112 +26,110 @@ PSL-CFX Analytics — Infographie interactive, prévision et simulation de
 crise sanitaire pour les Hôpitaux Universitaires Pitié-Salpêtrière —
 Charles Foix.
 
-## Slide 2 — Contexte (1-2 min)
+## Slide 2 — Contexte
 
-- Hôpital confronté à des pics d'activité saisonniers, une saturation des
-  urgences, un manque de personnel et des risques de rupture de stock en
-  situation de crise (cf. énoncé).
-- Objectif du projet : construire un dataset structuré à partir des seuls
-  documents disponibles (3 rapports "Chiffres Clés" 2012/2015/2016), en tirer
-  une prévision d'activité et une simulation de crise sanitaire, le tout
-  restitué dans une infographie compréhensible **sans jargon technique**.
-- **Point à assumer dès le début** : les rapports sources ne donnent que des
-  totaux annuels — tout le reste (mois, crise) est une hypothèse de
-  modélisation explicite, pas une mesure. C'est le fil rouge de toute la
-  présentation.
+Je pars du contexte de l'hôpital : pics d'activité saisonniers, saturation
+des urgences, manque de personnel, risques de rupture de stock en cas de
+crise. L'objectif du projet, c'est de construire un dataset structuré à
+partir des seuls documents disponibles (les 3 rapports "Chiffres Clés"
+2012/2015/2016), d'en tirer une prévision d'activité et une simulation de
+crise sanitaire, et de restituer tout ça dans une infographie compréhensible
+sans jargon technique.
 
-## Slide 3-8 — Démonstration du dashboard (5-6 min, LIVE)
+Un point que je veux poser dès le début, parce que ça va revenir tout le
+long : les rapports sources ne donnent que des totaux annuels, donc tout le
+reste — la répartition mensuelle, la crise — est une hypothèse de
+modélisation que j'assume, pas une donnée mesurée.
 
-Ne pas dérouler toutes les pages en détail — choisir un parcours qui
-prouve les 4 exigences de l'énoncé (bascule Normal/Crise, filtres de dates,
-UX soignée, jargon médical acceptable / pas de jargon math).
+## Slides 3-8 — Démonstration du dashboard (live)
 
-**Parcours suggéré** (`streamlit run app.py`) :
-1. **Vue d'ensemble** — indicateurs clés, mode Normal. Montre l'état actuel
-   de PSL-CFX (capacité, urgences, effectifs) demandé par l'énoncé.
-2. **Urgences & Activité**, mode Normal, granularité Mensuelle — montrer le
-   pic hivernal (déc-jan-fév). Pointer l'avertissement affiché sur cet
-   onglet (rupture de méthode de comptage 2015/2016) : **c'est une preuve de
-   rigueur à mettre en avant, pas à cacher**.
-3. Basculer en mode **Crise** sur la même page — le profil change de forme
-   (pic au printemps, rebond en novembre) et le volume grimpe. Expliquer en
-   une phrase simple : "on modélise une vague épidémique, pas juste un +X%
-   uniforme dans le temps".
-4. Cocher "Afficher une estimation pour l'année suivante" — montrer la
+Je ne vais pas dérouler toutes les pages en détail, juste un parcours qui
+montre les points attendus par l'énoncé (bascule Normal/Crise, filtres de
+dates, pas de jargon math).
+
+Parcours que je prévois (`streamlit run app.py`) :
+
+1. Vue d'ensemble, mode Normal — l'état actuel de PSL-CFX (capacité,
+   urgences, effectifs).
+2. Urgences & Activité, mode Normal, granularité mensuelle — le pic
+   hivernal (déc-jan-fév). Je montre aussi l'avertissement affiché sur cet
+   onglet (la façon de compter a changé entre 2015 et 2016) : c'est une
+   preuve de rigueur, je préfère le mettre en avant que le cacher.
+3. Je bascule en mode Crise sur la même page — le profil change de forme
+   (pic au printemps, rebond en novembre) et le volume grimpe. J'explique
+   simplement : on modélise une vague épidémique, pas juste un pourcentage
+   uniforme dans le temps.
+4. Je coche "Afficher une estimation pour l'année suivante" pour montrer la
    courbe de prévision qui se prolonge.
-5. **RH** — montrer l'avertissement sur "Effectifs" (rupture de comptage
-   internes/étudiants 2016) : même logique de transparence.
-6. Filtre **Site** (PSL / CFX / Total) et **granularité** (mensuel /
-   trimestriel / annuel) sur une page au choix — cocher explicitement les
-   exigences "filtres de dates" de l'énoncé.
+5. Page RH — même logique de transparence avec l'avertissement sur les
+   effectifs.
+6. Sur une page au choix, je montre les filtres Site (PSL / CFX / Total) et
+   granularité (mensuel / trimestriel / annuel).
 
-## Slide 9 — Choix techniques et analytiques (3-4 min)
+## Slide 9 — Choix techniques et analytiques
 
-- **Extraction et structuration** : schéma commun `ANNEE / INDICATEUR /
-  SOUS-INDICATEUR / PLF / CFX / TOTAL / UNITE`, 6 domaines couverts, domaine
-  Qualité volontairement exclu (taux plafonnés à 100%, incompatibles avec un
-  coefficient multiplicatif — expliquer pourquoi en une phrase).
-- **Interpolation inter-annuelle** : combler 2011/2013/2014/2017 par
-  interpolation linéaire — assumer la limite (pas de logique métier, juste
-  une droite entre deux points connus).
-- **Saisonnalité mensuelle** : profil assumé (hiver = pic ; crise = vague
-  épidémique), pas mesuré — dire clairement que c'est une hypothèse de
-  modélisation documentée.
-- **Simulation de crise** : un coefficient multiplicatif par domaine,
-  **sourcé** sur des données réelles COVID (DREES, ATIH, Cour des comptes,
-  Assemblée nationale) plutôt qu'"au jugé" — c'est le point le plus attendu
-  du jury vu l'insistance de l'énoncé ("LIRE... Re-LIRE... les sources"). Un
-  ou deux chiffres clés à citer de mémoire : +14,5% de lits de réanimation
-  en France en 2020 (proche du +15% retenu pour la capacité), jusqu'à 250%
-  de la capacité de réa nécessaire en Île-de-France au printemps 2020.
-- **Modèle prédictif SARIMA** : pourquoi ce modèle (recommandé par
-  l'énoncé, standard pour une saisonnalité mensuelle), et sa limite
-  assumée : il apprend sur une série reconstruite, pas observée — donc sa
-  valeur est démonstrative de la mécanique, pas une vraie prédiction tant
-  que le dataset ne contient pas de données mensuelles réelles.
+Ce que je veux expliquer :
 
-## Slide 10-11 — Résultats du modèle prédictif + recommandations (4-5 min)
+- L'extraction et la structuration du dataset : un schéma commun (ANNEE,
+  INDICATEUR, SOUS-INDICATEUR, PLF, CFX, TOTAL, UNITE), 6 domaines couverts,
+  et pourquoi j'ai laissé le domaine Qualité de côté (des taux plafonnés à
+  100 %, incompatibles avec un coefficient multiplicatif).
+- L'interpolation inter-annuelle pour combler 2011/2013/2014/2017 — et sa
+  limite : c'est juste une droite entre deux points connus, pas une vraie
+  logique métier.
+- La saisonnalité mensuelle, qui reste une hypothèse assumée (hiver = pic ;
+  crise = vague épidémique), pas une donnée mesurée.
+- La simulation de crise : un coefficient par domaine que j'ai sourcé sur
+  des données réelles COVID (DREES, ATIH, Cour des comptes, Assemblée
+  nationale) plutôt que de l'inventer au jugé. Deux chiffres à garder en
+  tête : +14,5 % de lits de réanimation en France en 2020 (proche du +15 %
+  que j'ai retenu pour la capacité), et jusqu'à 250 % de la capacité de
+  réanimation nécessaire en Île-de-France au printemps 2020.
+- Le modèle SARIMA : pourquoi ce modèle (recommandé par l'énoncé, standard
+  pour une saisonnalité mensuelle), et sa limite que j'assume — il apprend
+  sur une série reconstruite, pas observée, donc sa valeur est surtout
+  démonstrative tant que je n'ai pas de vraies données mensuelles.
 
-- Montrer la figure `docs/figures/forecast_urgences.png` : historique +
-  prévision + intervalle de confiance. Expliquer simplement ce que
-  représente l'intervalle (fourchette de confiance, pas une valeur unique).
-- Montrer (rapidement, sans détailler chaque panneau) la figure
-  `docs/figures/forecast_diagnostics.png` — l'occasion de montrer une
-  démarche rigoureuse : "on a vérifié les résidus du modèle, et on a repéré
-  une anomalie qui confirme un point de méthode déjà identifié" (le saut à
-  la jonction 2015-2016 dû à la reconstruction PLF/CFX des urgences).
-- **Recommandations concrètes** (résumé de `rapport_mise_en_place.md`) :
-  - Court terme : renfort saisonnier calé sur le pic hivernal, extension des
-    filières d'aval urgences → services (déjà en place et documentées
-    efficaces sur PSL-CFX même).
-  - Moyen terme : diversification fournisseurs EPI, lits tampons ciblés
-    soins critiques, ligne budgétaire de réserve.
-  - Long terme : mécanisme de financement d'urgence pré-négocié,
-    amélioration de la collecte de données (mensuelle) pour remplacer les
-    hypothèses par des données mesurées.
-  - Point fort à citer : le retour d'expérience réel de PSL-CFX (attentats
-    du 13 novembre 2015, Plan NOVI-H) comme base de plan de mobilisation —
-    plus solide qu'une hypothèse générique.
+## Slides 10-11 — Résultats du modèle prédictif + recommandations
 
-## Slide 12 — Limites et perspectives (2 min)
+Je montre la figure de prévision (historique + prévision + intervalle de
+confiance), en expliquant simplement ce que représente l'intervalle. Puis
+la figure de diagnostics, sans détailler chaque panneau — juste pour
+montrer que j'ai vérifié les résidus du modèle et repéré une anomalie qui
+confirme un point de méthode déjà identifié (le saut à la jonction
+2015-2016 dû à la reconstruction PLF/CFX des urgences).
 
-- Seulement 3 années sources → toute extrapolation reste fragile.
-- Deux ruptures de méthode non réconciliables (Urgences, Médecins ETP) —
-  documentées et affichées dans l'app plutôt que masquées.
-- Coefficient "Finances" (+30%) volontairement prudent par rapport à la
-  moyenne nationale réelle (~3%) — à faire évoluer selon l'usage
-  (préparation au pire cas vs estimation réaliste).
-- **Perspectives** : intégrer des données mensuelles réelles (SAE, ATIH,
-  data.gouv.fr) si accessibles, recalibrer la saisonnalité sur des données
-  observées, étendre le domaine Qualité avec une logique additive plafonnée,
-  automatiser la génération de l'export Excel.
+Pour les recommandations, je reprends l'essentiel du rapport de mise en
+place : renfort saisonnier calé sur le pic hivernal et extension des
+filières d'aval à court terme, diversification des fournisseurs d'EPI et
+lits tampons ciblés soins critiques à moyen terme, mécanisme de financement
+d'urgence pré-négocié et meilleure collecte de données à long terme. Un
+point que je veux citer : le retour d'expérience réel de PSL-CFX (les
+attentats du 13 novembre 2015, le Plan NOVI-H) comme base de plan de
+mobilisation — bien plus solide qu'une hypothèse générique.
+
+## Slide 12 — Limites et perspectives
+
+Je n'ai que 3 années sources, donc toute extrapolation reste fragile. Deux
+ruptures de méthode ne peuvent pas être réconciliées avec les sources
+disponibles (Urgences, Médecins ETP) — je préfère les documenter et les
+afficher dans l'app plutôt que les masquer. Le coefficient "Finances"
+(+30 %) est volontairement plus prudent que la moyenne nationale réelle
+(environ 3 %), à faire évoluer selon l'usage visé.
+
+Comme perspectives, j'aimerais intégrer des données mensuelles réelles si
+elles deviennent accessibles (SAE, ATIH, data.gouv.fr), recalibrer la
+saisonnalité sur des données observées, étendre le domaine Qualité avec une
+logique additive plafonnée, et automatiser la génération de l'export Excel.
 
 ## Slide 13 — Questions
 
-Anticiper les questions probables (à préparer à l'oral, pas à l'écrit) :
-- "Pourquoi ces coefficients précis et pas d'autres ?" → renvoyer aux
-  sources citées en slide 9 + rapport technique §3.2.
-- "Le modèle SARIMA sert-il vraiment à quelque chose si la série est
-  reconstruite ?" → assumer la limite (slide 9), insister sur la valeur
-  méthodologique/démonstrative.
-- "Que feriez-vous avec plus de temps/données ?" → slide 12, perspectives.
+Questions que je m'attends à recevoir, et comment j'y répondrais :
+
+- Pourquoi ces coefficients précis et pas d'autres ? → je reviens sur les
+  sources citées en slide 9 et dans le rapport technique.
+- Le modèle SARIMA sert-il vraiment à quelque chose si la série est
+  reconstruite ? → j'assume la limite, j'insiste sur la valeur
+  méthodologique et démonstrative.
+- Qu'est-ce que je ferais avec plus de temps ou de données ? → je reviens
+  sur les perspectives de la slide 12.
