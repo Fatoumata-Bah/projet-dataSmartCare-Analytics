@@ -24,6 +24,13 @@ def write_csv(path, rows):
 # ============================================================
 # ACTIVITÉ & SERVICE
 # ============================================================
+# NB méthodologique important (voir docs/rapport_technique.md §2 et §5) :
+# "Urgences -> Passages totaux" n'a PAS le même périmètre d'une année sur
+# l'autre dans les rapports sources : 2011/2012 = PSL seul, section "Les
+# urgences de La Pitié-Salpêtrière" (SLP-CHF2012.pdf p.4) ; 2015 = SAU
+# (59 072) + urgences dentaires (62 649) = 121 721 (SLP-CHX2015.pdf p.7) ;
+# 2016 = 127 678 dont 61 651 "urgences spécialisées" (SLP-CHF2016.pdf p.4).
+# Ce n'est donc pas une série continue comparable telle quelle.
 activity_rows = [
     # ANNEE, INDICATEUR, SOUS-INDICATEUR, PLF, CFX, TOTAL, UNITE
     (2011, "Urgences", "Passages totaux", 83002, "", "", "passages"),
@@ -31,11 +38,12 @@ activity_rows = [
     (2015, "Urgences", "Passages totaux", "", "", 121721, "passages"),
     (2016, "Urgences", "Passages totaux", "", "", 127678, "passages"),
 
+    (2011, "Urgences", "Patients admis en hospitalisation", 6083, "", "", "patients"),
     (2012, "Urgences", "Patients admis en hospitalisation", 10063, "", "", "patients"),
     (2015, "Urgences", "Patients admis en hospitalisation", "", "", 7588, "patients"),
 
     (2012, "Consultations", "Consultations externes", 657047, 3911, 660958, "consultations"),
-    (2015, "Consultations", "Consultations externes", "", "", 607950, "consultations"),
+    (2015, "Consultations", "Consultations externes", 597660, 10290, 607950, "consultations"),
     (2016, "Consultations", "Consultations externes", "", "", 644602, "consultations"),
 
     (2012, "Séjours", "Hospitalisation complète (>24h)", 64693, 3494, 68187, "séjours"),
@@ -46,7 +54,9 @@ activity_rows = [
     (2015, "Séjours", "Ambulatoire (<24h)", 93558, 1614, 95172, "séjours"),
     (2016, "Séjours", "Ambulatoire (<24h)", "", "", 100319, "séjours"),
 
-    (2015, "Actes", "Actes opératoires", "", "", 47925, "actes"),
+    # 47 925 actes opératoires : chiffre 2016 (SLP-CHF2016.pdf p.4), absent
+    # du rapport 2015 -- corrigé (était mal attribué à 2015 précédemment).
+    (2016, "Actes", "Actes opératoires", "", "", 47925, "actes"),
     (2015, "Naissances", "Accouchements", "", "", 2279, "naissances"),
     (2012, "Naissances", "Naissances", "", "", 2457, "naissances"),
     (2016, "Naissances", "Accouchements", "", "", 2186, "naissances"),
@@ -118,17 +128,40 @@ write_csv("finance/finance-data.csv", finance_rows)
 # ============================================================
 # RH — effectifs
 # ============================================================
+# NB méthodologique important (voir docs/rapport_technique.md §2 et §5) :
+# le rapport 2016 (SLP-CHF2016.pdf p.4) compte les effectifs médicaux
+# différemment des rapports 2012/2015 :
+#   - 2012 (1253 ETP) et 2015 (1621 ETP) incluent internes/résidents/FFI
+#     dans le total "Médecins (ETP)".
+#   - 2016 les compte à part : "947 ETP" de médecins seniors + "465
+#     internes" (en effectif physique, pas d'ETP publié pour eux) +
+#     "687 étudiants hospitaliers". Impossible de reconstituer un ETP 2016
+#     réellement comparable à 2012/2015 (l'ETP des internes n'est pas publié)
+#     -> 947 est donc une RUPTURE DE SÉRIE, pas une vraie baisse d'effectifs.
+#   - En revanche, pour "Médecins (effectif physique)" et "Personnel
+#     paramédical (ETP)", le rapport 2016 publie les sous-catégories qui
+#     permettent de reconstituer un périmètre comparable (calculs ci-dessous).
 hr_rows = [
     (2012, "Effectifs", "Médecins (ETP)", 1160, 93, 1253, "ETP"),
     (2015, "Effectifs", "Médecins (ETP)", 1506, 115, 1621, "ETP"),
     (2016, "Effectifs", "Médecins (ETP)", "", "", 947, "ETP"),
 
+    # 2012 (1984, "effectif physique") inclut les internes/résidents mais
+    # exclut les étudiants ("hors ETP" dans le rapport 2012). Pour rester
+    # sur le même périmètre en 2016 : 1626 médecins seniors + 465 internes
+    # = 2091 (on exclut les 687 "étudiants hospitaliers", comme en 2012).
     (2012, "Effectifs", "Médecins (effectif physique)", 1846, 138, 1984, "personnes"),
-    (2016, "Effectifs", "Médecins (effectif physique)", "", "", 2778, "personnes"),
+    (2016, "Effectifs", "Médecins (effectif physique)", "", "", 2091, "personnes"),
 
+    # 2012/2015 "Personnel paramédical (ETP)" inclut le personnel
+    # administratif/technique (cf. détail 2015 : 755 administratif + 6447
+    # hospitalier + 125 socio-éducatif + 523 technique = 7850). Le rapport
+    # 2016 sépare "6585 personnels soignants" et "1294 personnels
+    # administratifs, techniques et ouvriers" -> recombinés = 7879 pour
+    # rester sur le même périmètre que 2012/2015.
     (2012, "Effectifs", "Personnel paramédical (ETP)", 6312, 770, 7082, "ETP"),
     (2015, "Effectifs", "Personnel paramédical (ETP)", 6897, 953, 7850, "ETP"),
-    (2016, "Effectifs", "Personnel paramédical (ETP)", "", "", 6585, "ETP"),
+    (2016, "Effectifs", "Personnel paramédical (ETP)", "", "", 7879, "ETP"),
 ]
 write_csv("hr/hr-data.csv", hr_rows)
 

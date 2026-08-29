@@ -215,126 +215,126 @@ year,month,site_code,indicateur,sous_indicateur,unite,value,value_crise
 2012,10,CFX,Consultations,Consultations externes,consultations,293.32,688.34
 2012,11,CFX,Consultations,Consultations externes,consultations,312.88,750.91
 2012,12,CFX,Consultations,Consultations externes,consultations,469.32,500.61
-2013,1,PLF,Consultations,Consultations externes,consultations,63948.22,61390.29
-2013,2,PLF,Consultations,Consultations externes,consultations,57553.4,51158.58
-2013,3,PLF,Consultations,Consultations externes,consultations,51158.58,143244.02
-2013,4,PLF,Consultations,Consultations externes,consultations,47961.17,194402.59
-2013,5,PLF,Consultations,Consultations externes,consultations,44763.76,92085.44
-2013,6,PLF,Consultations,Consultations externes,consultations,44763.76,40926.86
-2013,7,PLF,Consultations,Consultations externes,consultations,54355.99,30695.15
-2013,8,PLF,Consultations,Consultations externes,consultations,51158.58,30695.15
-2013,9,PLF,Consultations,Consultations externes,consultations,47961.17,61390.29
-2013,10,PLF,Consultations,Consultations externes,consultations,47961.17,112548.87
-2013,11,PLF,Consultations,Consultations externes,consultations,51158.58,122780.59
-2013,12,PLF,Consultations,Consultations externes,consultations,76737.87,81853.72
-2013,1,CFX,Consultations,Consultations externes,consultations,380.64,365.42
-2013,2,CFX,Consultations,Consultations externes,consultations,342.58,304.52
-2013,3,CFX,Consultations,Consultations externes,consultations,304.52,852.64
-2013,4,CFX,Consultations,Consultations externes,consultations,285.48,1157.16
-2013,5,CFX,Consultations,Consultations externes,consultations,266.45,548.13
-2013,6,CFX,Consultations,Consultations externes,consultations,266.45,243.61
-2013,7,CFX,Consultations,Consultations externes,consultations,323.55,182.71
-2013,8,CFX,Consultations,Consultations externes,consultations,304.52,182.71
-2013,9,CFX,Consultations,Consultations externes,consultations,285.48,365.42
-2013,10,CFX,Consultations,Consultations externes,consultations,285.48,669.94
-2013,11,CFX,Consultations,Consultations externes,consultations,304.52,730.84
-2013,12,CFX,Consultations,Consultations externes,consultations,456.77,487.23
-2014,1,PLF,Consultations,Consultations externes,consultations,62191.74,59704.07
-2014,2,PLF,Consultations,Consultations externes,consultations,55972.57,49753.39
-2014,3,PLF,Consultations,Consultations externes,consultations,49753.4,139309.51
-2014,4,PLF,Consultations,Consultations externes,consultations,46643.81,189062.9
-2014,5,PLF,Consultations,Consultations externes,consultations,43534.22,89556.11
-2014,6,PLF,Consultations,Consultations externes,consultations,43534.22,39802.72
-2014,7,PLF,Consultations,Consultations externes,consultations,52862.98,29852.04
-2014,8,PLF,Consultations,Consultations externes,consultations,49753.4,29852.04
-2014,9,PLF,Consultations,Consultations externes,consultations,46643.81,59704.07
-2014,10,PLF,Consultations,Consultations externes,consultations,46643.81,109457.47
-2014,11,PLF,Consultations,Consultations externes,consultations,49753.4,119408.15
-2014,12,PLF,Consultations,Consultations externes,consultations,74630.09,79605.43
-2014,1,CFX,Consultations,Consultations externes,consultations,370.19,355.38
-2014,2,CFX,Consultations,Consultations externes,consultations,333.17,296.15
-2014,3,CFX,Consultations,Consultations externes,consultations,296.15,829.23
-2014,4,CFX,Consultations,Consultations externes,consultations,277.64,1125.38
-2014,5,CFX,Consultations,Consultations externes,consultations,259.13,533.07
-2014,6,CFX,Consultations,Consultations externes,consultations,259.13,236.92
-2014,7,CFX,Consultations,Consultations externes,consultations,314.66,177.69
-2014,8,CFX,Consultations,Consultations externes,consultations,296.15,177.69
-2014,9,CFX,Consultations,Consultations externes,consultations,277.64,355.38
-2014,10,CFX,Consultations,Consultations externes,consultations,277.64,651.53
-2014,11,CFX,Consultations,Consultations externes,consultations,296.15,710.76
-2014,12,CFX,Consultations,Consultations externes,consultations,444.23,473.84
-2015,1,PLF,Consultations,Consultations externes,consultations,60435.27,58017.86
-2015,2,PLF,Consultations,Consultations externes,consultations,54391.74,48348.21
-2015,3,PLF,Consultations,Consultations externes,consultations,48348.21,135375.0
-2015,4,PLF,Consultations,Consultations externes,consultations,45326.45,183723.21
-2015,5,PLF,Consultations,Consultations externes,consultations,42304.69,87026.78
-2015,6,PLF,Consultations,Consultations externes,consultations,42304.69,38678.57
-2015,7,PLF,Consultations,Consultations externes,consultations,51369.98,29008.93
-2015,8,PLF,Consultations,Consultations externes,consultations,48348.21,29008.93
-2015,9,PLF,Consultations,Consultations externes,consultations,45326.45,58017.86
-2015,10,PLF,Consultations,Consultations externes,consultations,45326.45,106366.07
-2015,11,PLF,Consultations,Consultations externes,consultations,48348.21,116035.71
-2015,12,PLF,Consultations,Consultations externes,consultations,72522.32,77357.14
-2015,1,CFX,Consultations,Consultations externes,consultations,359.73,345.34
-2015,2,CFX,Consultations,Consultations externes,consultations,323.76,287.79
-2015,3,CFX,Consultations,Consultations externes,consultations,287.79,805.8
-2015,4,CFX,Consultations,Consultations externes,consultations,269.8,1093.59
-2015,5,CFX,Consultations,Consultations externes,consultations,251.81,518.02
-2015,6,CFX,Consultations,Consultations externes,consultations,251.81,230.23
-2015,7,CFX,Consultations,Consultations externes,consultations,305.77,172.67
-2015,8,CFX,Consultations,Consultations externes,consultations,287.79,172.67
-2015,9,CFX,Consultations,Consultations externes,consultations,269.8,345.34
-2015,10,CFX,Consultations,Consultations externes,consultations,269.8,633.13
-2015,11,CFX,Consultations,Consultations externes,consultations,287.79,690.69
-2015,12,CFX,Consultations,Consultations externes,consultations,431.68,460.46
-2016,1,PLF,Consultations,Consultations externes,consultations,64078.78,61515.63
-2016,2,PLF,Consultations,Consultations externes,consultations,57670.9,51263.02
-2016,3,PLF,Consultations,Consultations externes,consultations,51263.02,143536.46
-2016,4,PLF,Consultations,Consultations externes,consultations,48059.08,194799.49
-2016,5,PLF,Consultations,Consultations externes,consultations,44855.14,92273.44
-2016,6,PLF,Consultations,Consultations externes,consultations,44855.14,41010.42
-2016,7,PLF,Consultations,Consultations externes,consultations,54466.96,30757.81
-2016,8,PLF,Consultations,Consultations externes,consultations,51263.02,30757.81
-2016,9,PLF,Consultations,Consultations externes,consultations,48059.08,61515.63
-2016,10,PLF,Consultations,Consultations externes,consultations,48059.08,112778.65
-2016,11,PLF,Consultations,Consultations externes,consultations,51263.02,123031.25
-2016,12,PLF,Consultations,Consultations externes,consultations,76894.53,82020.84
-2016,1,CFX,Consultations,Consultations externes,consultations,381.42,366.17
-2016,2,CFX,Consultations,Consultations externes,consultations,343.28,305.14
-2016,3,CFX,Consultations,Consultations externes,consultations,305.14,854.38
-2016,4,CFX,Consultations,Consultations externes,consultations,286.07,1159.52
-2016,5,CFX,Consultations,Consultations externes,consultations,267.0,549.25
-2016,6,CFX,Consultations,Consultations externes,consultations,267.0,244.11
-2016,7,CFX,Consultations,Consultations externes,consultations,324.21,183.08
-2016,8,CFX,Consultations,Consultations externes,consultations,305.14,183.08
-2016,9,CFX,Consultations,Consultations externes,consultations,286.07,366.17
-2016,10,CFX,Consultations,Consultations externes,consultations,286.07,671.3
-2016,11,CFX,Consultations,Consultations externes,consultations,305.14,732.33
-2016,12,CFX,Consultations,Consultations externes,consultations,457.71,488.22
-2017,1,PLF,Consultations,Consultations externes,consultations,64078.78,61515.63
-2017,2,PLF,Consultations,Consultations externes,consultations,57670.9,51263.02
-2017,3,PLF,Consultations,Consultations externes,consultations,51263.02,143536.46
-2017,4,PLF,Consultations,Consultations externes,consultations,48059.08,194799.49
-2017,5,PLF,Consultations,Consultations externes,consultations,44855.14,92273.44
-2017,6,PLF,Consultations,Consultations externes,consultations,44855.14,41010.42
-2017,7,PLF,Consultations,Consultations externes,consultations,54466.96,30757.81
-2017,8,PLF,Consultations,Consultations externes,consultations,51263.02,30757.81
-2017,9,PLF,Consultations,Consultations externes,consultations,48059.08,61515.63
-2017,10,PLF,Consultations,Consultations externes,consultations,48059.08,112778.65
-2017,11,PLF,Consultations,Consultations externes,consultations,51263.02,123031.25
-2017,12,PLF,Consultations,Consultations externes,consultations,76894.53,82020.84
-2017,1,CFX,Consultations,Consultations externes,consultations,381.42,366.17
-2017,2,CFX,Consultations,Consultations externes,consultations,343.28,305.14
-2017,3,CFX,Consultations,Consultations externes,consultations,305.14,854.38
-2017,4,CFX,Consultations,Consultations externes,consultations,286.07,1159.52
-2017,5,CFX,Consultations,Consultations externes,consultations,267.0,549.25
-2017,6,CFX,Consultations,Consultations externes,consultations,267.0,244.11
-2017,7,CFX,Consultations,Consultations externes,consultations,324.21,183.08
-2017,8,CFX,Consultations,Consultations externes,consultations,305.14,183.08
-2017,9,CFX,Consultations,Consultations externes,consultations,286.07,366.17
-2017,10,CFX,Consultations,Consultations externes,consultations,286.07,671.3
-2017,11,CFX,Consultations,Consultations externes,consultations,305.14,732.33
-2017,12,CFX,Consultations,Consultations externes,consultations,457.71,488.22
+2013,1,PLF,Consultations,Consultations externes,consultations,63725.13,61176.13
+2013,2,PLF,Consultations,Consultations externes,consultations,57352.62,50980.11
+2013,3,PLF,Consultations,Consultations externes,consultations,50980.11,142744.3
+2013,4,PLF,Consultations,Consultations externes,consultations,47793.85,193724.4
+2013,5,PLF,Consultations,Consultations externes,consultations,44607.59,91764.19
+2013,6,PLF,Consultations,Consultations externes,consultations,44607.59,40784.09
+2013,7,PLF,Consultations,Consultations externes,consultations,54166.36,30588.06
+2013,8,PLF,Consultations,Consultations externes,consultations,50980.11,30588.06
+2013,9,PLF,Consultations,Consultations externes,consultations,47793.85,61176.13
+2013,10,PLF,Consultations,Consultations externes,consultations,47793.85,112156.23
+2013,11,PLF,Consultations,Consultations externes,consultations,50980.11,122352.26
+2013,12,PLF,Consultations,Consultations externes,consultations,76470.16,81568.17
+2013,1,CFX,Consultations,Consultations externes,consultations,603.73,579.58
+2013,2,CFX,Consultations,Consultations externes,consultations,543.36,482.99
+2013,3,CFX,Consultations,Consultations externes,consultations,482.99,1352.36
+2013,4,CFX,Consultations,Consultations externes,consultations,452.8,1835.35
+2013,5,CFX,Consultations,Consultations externes,consultations,422.61,869.38
+2013,6,CFX,Consultations,Consultations externes,consultations,422.61,386.39
+2013,7,CFX,Consultations,Consultations externes,consultations,513.17,289.79
+2013,8,CFX,Consultations,Consultations externes,consultations,482.99,289.79
+2013,9,CFX,Consultations,Consultations externes,consultations,452.8,579.58
+2013,10,CFX,Consultations,Consultations externes,consultations,452.8,1062.57
+2013,11,CFX,Consultations,Consultations externes,consultations,482.99,1159.17
+2013,12,CFX,Consultations,Consultations externes,consultations,724.48,772.78
+2014,1,PLF,Consultations,Consultations externes,consultations,61745.57,59275.74
+2014,2,PLF,Consultations,Consultations externes,consultations,55571.01,49396.45
+2014,3,PLF,Consultations,Consultations externes,consultations,49396.45,138310.07
+2014,4,PLF,Consultations,Consultations externes,consultations,46309.18,187706.52
+2014,5,PLF,Consultations,Consultations externes,consultations,43221.9,88913.62
+2014,6,PLF,Consultations,Consultations externes,consultations,43221.9,39517.16
+2014,7,PLF,Consultations,Consultations externes,consultations,52483.73,29637.87
+2014,8,PLF,Consultations,Consultations externes,consultations,49396.45,29637.87
+2014,9,PLF,Consultations,Consultations externes,consultations,46309.18,59275.74
+2014,10,PLF,Consultations,Consultations externes,consultations,46309.18,108672.2
+2014,11,PLF,Consultations,Consultations externes,consultations,49396.45,118551.49
+2014,12,PLF,Consultations,Consultations externes,consultations,74094.68,79034.33
+2014,1,CFX,Consultations,Consultations externes,consultations,816.37,783.71
+2014,2,CFX,Consultations,Consultations externes,consultations,734.73,653.09
+2014,3,CFX,Consultations,Consultations externes,consultations,653.09,1828.66
+2014,4,CFX,Consultations,Consultations externes,consultations,612.28,2481.76
+2014,5,CFX,Consultations,Consultations externes,consultations,571.46,1175.57
+2014,6,CFX,Consultations,Consultations externes,consultations,571.46,522.47
+2014,7,CFX,Consultations,Consultations externes,consultations,693.91,391.86
+2014,8,CFX,Consultations,Consultations externes,consultations,653.09,391.86
+2014,9,CFX,Consultations,Consultations externes,consultations,612.28,783.71
+2014,10,CFX,Consultations,Consultations externes,consultations,612.28,1436.81
+2014,11,CFX,Consultations,Consultations externes,consultations,653.09,1567.42
+2014,12,CFX,Consultations,Consultations externes,consultations,979.64,1044.95
+2015,1,PLF,Consultations,Consultations externes,consultations,59766.0,57375.36
+2015,2,PLF,Consultations,Consultations externes,consultations,53789.4,47812.8
+2015,3,PLF,Consultations,Consultations externes,consultations,47812.8,133875.84
+2015,4,PLF,Consultations,Consultations externes,consultations,44824.5,181688.64
+2015,5,PLF,Consultations,Consultations externes,consultations,41836.2,86063.04
+2015,6,PLF,Consultations,Consultations externes,consultations,41836.2,38250.24
+2015,7,PLF,Consultations,Consultations externes,consultations,50801.1,28687.68
+2015,8,PLF,Consultations,Consultations externes,consultations,47812.8,28687.68
+2015,9,PLF,Consultations,Consultations externes,consultations,44824.5,57375.36
+2015,10,PLF,Consultations,Consultations externes,consultations,44824.5,105188.16
+2015,11,PLF,Consultations,Consultations externes,consultations,47812.8,114750.72
+2015,12,PLF,Consultations,Consultations externes,consultations,71719.2,76500.48
+2015,1,CFX,Consultations,Consultations externes,consultations,1029.0,987.84
+2015,2,CFX,Consultations,Consultations externes,consultations,926.1,823.2
+2015,3,CFX,Consultations,Consultations externes,consultations,823.2,2304.96
+2015,4,CFX,Consultations,Consultations externes,consultations,771.75,3128.16
+2015,5,CFX,Consultations,Consultations externes,consultations,720.3,1481.76
+2015,6,CFX,Consultations,Consultations externes,consultations,720.3,658.56
+2015,7,CFX,Consultations,Consultations externes,consultations,874.65,493.92
+2015,8,CFX,Consultations,Consultations externes,consultations,823.2,493.92
+2015,9,CFX,Consultations,Consultations externes,consultations,771.75,987.84
+2015,10,CFX,Consultations,Consultations externes,consultations,771.75,1811.04
+2015,11,CFX,Consultations,Consultations externes,consultations,823.2,1975.68
+2015,12,CFX,Consultations,Consultations externes,consultations,1234.8,1317.12
+2016,1,PLF,Consultations,Consultations externes,consultations,63723.97,61175.01
+2016,2,PLF,Consultations,Consultations externes,consultations,57351.57,50979.18
+2016,3,PLF,Consultations,Consultations externes,consultations,50979.18,142741.7
+2016,4,PLF,Consultations,Consultations externes,consultations,47792.98,193720.87
+2016,5,PLF,Consultations,Consultations externes,consultations,44606.78,91762.52
+2016,6,PLF,Consultations,Consultations externes,consultations,44606.78,40783.34
+2016,7,PLF,Consultations,Consultations externes,consultations,54165.38,30587.51
+2016,8,PLF,Consultations,Consultations externes,consultations,50979.18,30587.51
+2016,9,PLF,Consultations,Consultations externes,consultations,47792.98,61175.01
+2016,10,PLF,Consultations,Consultations externes,consultations,47792.98,112154.19
+2016,11,PLF,Consultations,Consultations externes,consultations,50979.18,122350.02
+2016,12,PLF,Consultations,Consultations externes,consultations,76468.77,81566.68
+2016,1,CFX,Consultations,Consultations externes,consultations,736.23,706.78
+2016,2,CFX,Consultations,Consultations externes,consultations,662.61,588.98
+2016,3,CFX,Consultations,Consultations externes,consultations,588.98,1649.15
+2016,4,CFX,Consultations,Consultations externes,consultations,552.17,2238.14
+2016,5,CFX,Consultations,Consultations externes,consultations,515.36,1060.17
+2016,6,CFX,Consultations,Consultations externes,consultations,515.36,471.19
+2016,7,CFX,Consultations,Consultations externes,consultations,625.79,353.39
+2016,8,CFX,Consultations,Consultations externes,consultations,588.98,353.39
+2016,9,CFX,Consultations,Consultations externes,consultations,552.17,706.78
+2016,10,CFX,Consultations,Consultations externes,consultations,552.17,1295.76
+2016,11,CFX,Consultations,Consultations externes,consultations,588.98,1413.56
+2016,12,CFX,Consultations,Consultations externes,consultations,883.47,942.37
+2017,1,PLF,Consultations,Consultations externes,consultations,63723.97,61175.01
+2017,2,PLF,Consultations,Consultations externes,consultations,57351.57,50979.18
+2017,3,PLF,Consultations,Consultations externes,consultations,50979.18,142741.7
+2017,4,PLF,Consultations,Consultations externes,consultations,47792.98,193720.87
+2017,5,PLF,Consultations,Consultations externes,consultations,44606.78,91762.52
+2017,6,PLF,Consultations,Consultations externes,consultations,44606.78,40783.34
+2017,7,PLF,Consultations,Consultations externes,consultations,54165.38,30587.51
+2017,8,PLF,Consultations,Consultations externes,consultations,50979.18,30587.51
+2017,9,PLF,Consultations,Consultations externes,consultations,47792.98,61175.01
+2017,10,PLF,Consultations,Consultations externes,consultations,47792.98,112154.19
+2017,11,PLF,Consultations,Consultations externes,consultations,50979.18,122350.02
+2017,12,PLF,Consultations,Consultations externes,consultations,76468.77,81566.68
+2017,1,CFX,Consultations,Consultations externes,consultations,736.23,706.78
+2017,2,CFX,Consultations,Consultations externes,consultations,662.61,588.98
+2017,3,CFX,Consultations,Consultations externes,consultations,588.98,1649.15
+2017,4,CFX,Consultations,Consultations externes,consultations,552.17,2238.14
+2017,5,CFX,Consultations,Consultations externes,consultations,515.36,1060.17
+2017,6,CFX,Consultations,Consultations externes,consultations,515.36,471.19
+2017,7,CFX,Consultations,Consultations externes,consultations,625.79,353.39
+2017,8,CFX,Consultations,Consultations externes,consultations,588.98,353.39
+2017,9,CFX,Consultations,Consultations externes,consultations,552.17,706.78
+2017,10,CFX,Consultations,Consultations externes,consultations,552.17,1295.76
+2017,11,CFX,Consultations,Consultations externes,consultations,588.98,1413.56
+2017,12,CFX,Consultations,Consultations externes,consultations,883.47,942.37
 2011,1,PLF,Greffes,Transplantations,greffes,15.7,15.07
 2011,2,PLF,Greffes,Transplantations,greffes,14.13,12.56
 2011,3,PLF,Greffes,Transplantations,greffes,12.56,35.17
@@ -1343,18 +1343,18 @@ year,month,site_code,indicateur,sous_indicateur,unite,value,value_crise
 2017,10,CFX,Urgences,Passages totaux,passages,4787.93,11235.66
 2017,11,CFX,Urgences,Passages totaux,passages,5107.12,12257.09
 2017,12,CFX,Urgences,Passages totaux,passages,7660.68,8171.39
-2011,1,PLF,Urgences,Patients admis en hospitalisation,patients,1006.3,966.05
-2011,2,PLF,Urgences,Patients admis en hospitalisation,patients,905.67,805.04
-2011,3,PLF,Urgences,Patients admis en hospitalisation,patients,805.04,2254.11
-2011,4,PLF,Urgences,Patients admis en hospitalisation,patients,754.73,3059.15
-2011,5,PLF,Urgences,Patients admis en hospitalisation,patients,704.41,1449.07
-2011,6,PLF,Urgences,Patients admis en hospitalisation,patients,704.41,644.03
-2011,7,PLF,Urgences,Patients admis en hospitalisation,patients,855.36,483.02
-2011,8,PLF,Urgences,Patients admis en hospitalisation,patients,805.04,483.02
-2011,9,PLF,Urgences,Patients admis en hospitalisation,patients,754.73,966.05
-2011,10,PLF,Urgences,Patients admis en hospitalisation,patients,754.73,1771.09
-2011,11,PLF,Urgences,Patients admis en hospitalisation,patients,805.04,1932.1
-2011,12,PLF,Urgences,Patients admis en hospitalisation,patients,1207.56,1288.06
+2011,1,PLF,Urgences,Patients admis en hospitalisation,patients,608.3,583.97
+2011,2,PLF,Urgences,Patients admis en hospitalisation,patients,547.47,486.64
+2011,3,PLF,Urgences,Patients admis en hospitalisation,patients,486.64,1362.59
+2011,4,PLF,Urgences,Patients admis en hospitalisation,patients,456.23,1849.23
+2011,5,PLF,Urgences,Patients admis en hospitalisation,patients,425.81,875.95
+2011,6,PLF,Urgences,Patients admis en hospitalisation,patients,425.81,389.31
+2011,7,PLF,Urgences,Patients admis en hospitalisation,patients,517.05,291.98
+2011,8,PLF,Urgences,Patients admis en hospitalisation,patients,486.64,291.98
+2011,9,PLF,Urgences,Patients admis en hospitalisation,patients,456.23,583.97
+2011,10,PLF,Urgences,Patients admis en hospitalisation,patients,456.23,1070.61
+2011,11,PLF,Urgences,Patients admis en hospitalisation,patients,486.64,1167.94
+2011,12,PLF,Urgences,Patients admis en hospitalisation,patients,729.96,778.62
 2011,1,CFX,Urgences,Patients admis en hospitalisation,patients,379.4,364.22
 2011,2,CFX,Urgences,Patients admis en hospitalisation,patients,341.46,303.52
 2011,3,CFX,Urgences,Patients admis en hospitalisation,patients,303.52,849.86

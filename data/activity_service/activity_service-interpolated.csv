@@ -8,11 +8,11 @@ ANNEE,INDICATEUR,SOUS-INDICATEUR,PLF,CFX,TOTAL,UNITE
 2017,Actes,Actes opératoires,23962.5,23962.5,47925.0,actes
 2011,Consultations,Consultations externes,657047.0,3911.0,660958.0,consultations
 2012,Consultations,Consultations externes,657047.0,3911.0,660958.0,consultations
-2013,Consultations,Consultations externes,639482.22,3806.45,643288.67,consultations
-2014,Consultations,Consultations externes,621917.44,3701.9,625619.33,consultations
-2015,Consultations,Consultations externes,604352.66,3597.34,607950.0,consultations
-2016,Consultations,Consultations externes,640787.78,3814.22,644602.0,consultations
-2017,Consultations,Consultations externes,640787.78,3814.22,644602.0,consultations
+2013,Consultations,Consultations externes,637251.33,6037.33,643288.67,consultations
+2014,Consultations,Consultations externes,617455.67,8163.67,625619.33,consultations
+2015,Consultations,Consultations externes,597660.0,10290.0,607950.0,consultations
+2016,Consultations,Consultations externes,637239.71,7362.29,644602.0,consultations
+2017,Consultations,Consultations externes,637239.71,7362.29,644602.0,consultations
 2011,Greffes,Transplantations,157.0,157.0,314.0,greffes
 2012,Greffes,Transplantations,157.0,157.0,314.0,greffes
 2013,Greffes,Transplantations,167.67,167.67,335.33,greffes
@@ -55,7 +55,7 @@ ANNEE,INDICATEUR,SOUS-INDICATEUR,PLF,CFX,TOTAL,UNITE
 2015,Urgences,Passages totaux,60860.5,60860.5,121721.0,passages
 2016,Urgences,Passages totaux,63839.0,63839.0,127678.0,passages
 2017,Urgences,Passages totaux,63839.0,63839.0,127678.0,passages
-2011,Urgences,Patients admis en hospitalisation,10063.0,3794.0,13857.0,patients
+2011,Urgences,Patients admis en hospitalisation,6083.0,3794.0,9877.0,patients
 2012,Urgences,Patients admis en hospitalisation,10063.0,3794.0,13857.0,patients
 2013,Urgences,Patients admis en hospitalisation,7973.33,3794.0,11767.33,patients
 2014,Urgences,Patients admis en hospitalisation,5883.67,3794.0,9677.67,patients
