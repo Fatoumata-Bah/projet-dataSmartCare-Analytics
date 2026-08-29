@@ -93,10 +93,13 @@ def bar_chart_annual(agg):
     )
 
 
-def render_monthly_page(st_module, data_path, key_prefix):
+def render_monthly_page(st_module, data_path, key_prefix, indicateur_notes=None):
     """Page générique pour un domaine avec données mensuelles reconstituées
-    (indicateur / sous_indicateur / year / month / value / value_crise)."""
+    (indicateur / sous_indicateur / year / month / value / value_crise).
+    indicateur_notes : dict optionnel {nom_indicateur: message} affiché en
+    tête de l'onglet correspondant (ex. changement de méthode de comptage)."""
     from utils import load_data, forecast_next_year
+    indicateur_notes = indicateur_notes or {}
 
     df = load_data(data_path)
 
@@ -105,7 +108,8 @@ def render_monthly_page(st_module, data_path, key_prefix):
     dff = site_filter(st_module, df, key_prefix)
     granularity = granularity_filter(st_module, key_prefix)
     show_forecast = st_module.sidebar.checkbox(
-        "Afficher prévision (SARIMA, année suivante)", value=False, key=f"{key_prefix}_fc"
+        "Afficher une estimation pour l'année suivante (basée sur l'historique)",
+        value=False, key=f"{key_prefix}_fc"
     )
 
     years_hist = sorted(dff["year"].unique().tolist())
@@ -120,6 +124,8 @@ def render_monthly_page(st_module, data_path, key_prefix):
     for tab, indic in zip(tabs, indicateurs):
         with tab:
             st_module.subheader(indic)
+            if indic in indicateur_notes:
+                st_module.info(indicateur_notes[indic])
             df_indic = dff[dff["indicateur"] == indic]
             sous_list = sorted(df_indic["sous_indicateur"].dropna().unique().tolist())
 
@@ -164,10 +170,13 @@ def render_monthly_page(st_module, data_path, key_prefix):
                 st_module.dataframe(table.sort_values(["Sous-indicateur", "Année"]), width='stretch')
 
 
-def render_annual_page(st_module, data_path, key_prefix):
+def render_annual_page(st_module, data_path, key_prefix, indicateur_notes=None):
     """Page générique pour un domaine sans reconstruction mensuelle
-    (indicateur / sous_indicateur / year / value / value_crise)."""
+    (indicateur / sous_indicateur / year / value / value_crise).
+    indicateur_notes : dict optionnel {nom_indicateur: message} affiché en
+    tête de l'onglet correspondant (ex. changement de méthode de comptage)."""
     from utils import load_data
+    indicateur_notes = indicateur_notes or {}
 
     df = load_data(data_path)
 
@@ -183,6 +192,8 @@ def render_annual_page(st_module, data_path, key_prefix):
     for tab, indic in zip(tabs, indicateurs):
         with tab:
             st_module.subheader(indic)
+            if indic in indicateur_notes:
+                st_module.info(indicateur_notes[indic])
             df_indic = dff[dff["indicateur"] == indic]
             sous_list = sorted(df_indic["sous_indicateur"].dropna().unique().tolist())
 
