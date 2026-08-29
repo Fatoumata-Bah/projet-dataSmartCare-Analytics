@@ -9,9 +9,9 @@ Streamlit pour restituer tout ça de façon compréhensible.
 
 ## Rapports
 
-- 📄 [Rapport technique](docs/rapport_technique.md) — sources des données,
+- 📄 [Rapport technique](docs/rapport_technique.md) - sources des données,
   traitements appliqués, choix et justification des modèles.
-- 📄 [Rapport de mise en place](docs/rapport_mise_en_place.md) —
+- 📄 [Rapport de mise en place](docs/rapport_mise_en_place.md) -
   propositions pour gérer les afflux de patients et se préparer aux crises
   sanitaires.
 
