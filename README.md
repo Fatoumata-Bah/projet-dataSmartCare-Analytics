@@ -121,8 +121,7 @@ Les 3 rapports sources ne fournissent que des **totaux annuels**. Toute
 décomposition mensuelle, tout coefficient de crise sanitaire, est donc une
 **hypothèse de modélisation explicite** documentée dans le code
 (`data/pipeline.py`) et justifiée dans le
-[rapport technique](docs/rapport_technique.md) — pas une donnée mesurée. Je
-l'assume et le documente plutôt que de le cacher : deux ruptures de méthode
+[rapport technique](docs/rapport_technique.md) — pas une donnée mesurée. Deux ruptures de méthode
 entre les rapports sources (comptage des urgences, effectifs médicaux 2016)
 ne peuvent pas être réconciliées avec les 3 PDF disponibles, et sont
 signalées directement dans le dashboard.
