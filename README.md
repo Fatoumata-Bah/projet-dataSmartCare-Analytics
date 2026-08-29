@@ -105,4 +105,5 @@ donnée mesurée.
 - [x] Infographie interactive (`app.py` + `pages/`)
 - [x] Rapport technique (`docs/rapport_technique.md`)
 - [x] Rapport de mise en place (`docs/rapport_mise_en_place.md`)
-- [ ] Présentation de soutenance
+- [ ] Présentation de soutenance (plan/trame prête dans
+      `docs/presentation_soutenance.md` — slides à mettre en forme)
