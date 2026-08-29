@@ -19,6 +19,10 @@ env/
 !.vscode/launch.json
 !.vscode/extensions.json
 
+# Config locale d'outils (non liee au projet)
+.As/
+.claude/
+
 # OS
 .DS_Store
 Thumbs.db
